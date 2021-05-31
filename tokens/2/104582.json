@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492814,
+  "token_id": 104582,
+  "symbol": "OBJKT",
+  "name": "pusher",
+  "decimals": 0,
+  "description": "1500x1500 video and audio. Original artwork and music by landlinesart.",
+  "artifact_uri": "ipfs://QmTj1uScnUmhZ6G3FakkigLEDZCB6Tun1fgrcHgp6Fs6PT",
+  "display_uri": "ipfs://QmRqfNDk6nuZM6X9JzNkJbFvpowzTUEm3StmyVrWTBUz8S",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1SA1S7Hsar1gXvwveU8mv85QiDKrN45YmF"
+  ],
+  "tags": [
+    "MUSIC",
+    "GENERATIVE",
+    "GEOMETRIC",
+    "VIDEO"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmTj1uScnUmhZ6G3FakkigLEDZCB6Tun1fgrcHgp6Fs6PT"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmeKpfszeKZT3a8Uh9TC4VGdWxvpxTYaRNq834rVsUcGyn"
+  },
+  "supply": "50",
+  "transfered": 50
+}

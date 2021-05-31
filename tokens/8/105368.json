@@ -1,0 +1,33 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493640,
+  "token_id": 105368,
+  "symbol": "OBJKT",
+  "name": "Evangeline Uranium :: Mystery Fish 0156/1000",
+  "decimals": 0,
+  "description": "Born 30 May 2021 at 07:16:58 to breeder tz1MvePPBoQGqesNJ4x3VRf2bn81it7kGjCc (thr33som3s) :: Seed opQjbBzZ8cAZAcFx6oTnbjV587nCf2T8CzmjR2TL1xvp13XvTmd0. Evangeline Uranium and their snail friends Alex and Jenna love life in their tank and their Invaders :: Give a home to your very own unique Mystery Fish by burning a Fish Token (OBKT#81257) :: Made with ThreeJS :: http://Mystery.fish ",
+  "artifact_uri": "ipfs://QmQE1rqUyNh2YvMcodHdnHeHVWkU194GRt1oq7u1zbSavL",
+  "display_uri": "ipfs://QmNRPRdFVba4tvHefp2E7Ewhg873ac1noE5Rhwfb1CHmHC",
+  "thumbnail_uri": "ipfs://QmX18Nf9VqnLqZ4VLmnk2vvtDyqLkUgRPULYvXfYESoyES",
+  "is_transferable": true,
+  "creators": [
+    "tz1QWFRpbN4rA8vABvxPAREtuffu6F1VKFTB"
+  ],
+  "tags": [
+    "MysteryFish",
+    "ProceduralPets",
+    "Sh!g"
+  ],
+  "formats": [
+    {
+      "mimeType": "application/x-directory",
+      "uri": "ipfs://QmQE1rqUyNh2YvMcodHdnHeHVWkU194GRt1oq7u1zbSavL"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmXJyJMH78zzsxjH3WT1znPRSSce5K8rXgm2QNL4TsXhpz"
+  },
+  "supply": "1",
+  "transfered": 1
+}

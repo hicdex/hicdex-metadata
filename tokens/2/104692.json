@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492876,
+  "token_id": 104692,
+  "symbol": "OBJKT",
+  "name": "Bad to the Cubone ",
+  "decimals": 0,
+  "description": "A badass ganster Cubone that doesnt take @*$( from anyone! Custom Tattoo I did for a client .",
+  "artifact_uri": "ipfs://QmZK2VTiUfXApMdUkQ2CkXNfABwj4pTff3FaLrBrBRfPXD",
+  "display_uri": "ipfs://QmX3PNavNbcaogTySC19NVcD4uAhwvxWHmBYJqJxjY9gjq",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1XiiPYEnwt2HgE2EsiuyUeX6MogyFprcxd"
+  ],
+  "tags": [
+    "pokemon",
+    "tatto",
+    "photography",
+    "aesthetic",
+    "art",
+    "painting"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmZK2VTiUfXApMdUkQ2CkXNfABwj4pTff3FaLrBrBRfPXD"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmYSBiTbtGb1RMYvAUVCJWFmHojhhkbFuBdqJrbhA6EYLh"
+  },
+  "supply": "10",
+  "transfered": 0
+}

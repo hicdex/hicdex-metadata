@@ -1,0 +1,37 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493964,
+  "token_id": 105678,
+  "symbol": "OBJKT",
+  "name": "The Unknown Gray Portraits",
+  "decimals": 0,
+  "description": "In the digital work \"The Unknown Gray Portraits\" (from The Unknown Portraits Series), new fantasy portraits of unknown gray people are generated with every HTML refresh - from elements that were previously digitally painted. The combination is made up of 10 element types, each with up to 10 + 1 red variants. The works of The Unknown Portraits Series are digital drawings or paintings in which the artist addresses the \"portraits“ in the digital age - it's about avatars and profile pictures, face recognition and the handling of personal rights in today's world. It's about simplification. And it's about uniqueness. ",
+  "artifact_uri": "ipfs://QmPRdRHUv8Zhhfbr47vE4ydeZagAZ1kQ8QpAuqcTCcfS9D",
+  "display_uri": "ipfs://Qmdjs3L4N1LHur1zYd4DWXSAW3RyVdJ3gQazxfFJxckz9Y",
+  "thumbnail_uri": "ipfs://Qmdjs3L4N1LHur1zYd4DWXSAW3RyVdJ3gQazxfFJxckz9Y",
+  "is_transferable": true,
+  "creators": [
+    "tz1SMkvJvX5BWR9HKwnV5LYttySD4gTACGh2"
+  ],
+  "tags": [
+    "gray",
+    "art",
+    "refresh",
+    "html",
+    "interactive",
+    "peerkriesel",
+    "frtzn"
+  ],
+  "formats": [
+    {
+      "mimeType": "application/x-directory",
+      "uri": "ipfs://QmPRdRHUv8Zhhfbr47vE4ydeZagAZ1kQ8QpAuqcTCcfS9D"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmfXc9i3bsUApPKHQ3GYbyB3qGA8fe6D1ZvjGz6h7K8TEK"
+  },
+  "supply": "1",
+  "transfered": 1
+}

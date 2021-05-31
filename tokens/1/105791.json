@@ -1,0 +1,42 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494044,
+  "token_id": 105791,
+  "symbol": "OBJKT",
+  "name": "Da Varanda #015",
+  "decimals": 0,
+  "description": "This is the fifteenth photo, size 2932 x 1949 px - ISO 200 | 300mm | f/4,0 | 1/800 sec. One week, an apartment balcony and a camera. This series of photos is being produced from the balcony of my apartment. For 1 week, I will photograph the life that I can see from up here on the 10th floor. All will be minted in 100 editions at a low price and after the sale period, those that are not sold will be burned.",
+  "artifact_uri": "ipfs://QmTMjKEt6GpkzSQ63BL1xLyhahEs5kaY6N4o135aQnGo8B",
+  "display_uri": "ipfs://QmNrFrg5Wg3Bd2ENAhGegZTA9LoeYEaCyB3WL9KnmuZ5KE",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1adG4LXsXoxVwwxZ1MMvV9wTvTGTPr5vM7"
+  ],
+  "tags": [
+    "varanda",
+    "balcony",
+    "photography",
+    "photo",
+    "series",
+    "2d",
+    "image",
+    "life",
+    "city",
+    "cityscape",
+    "street",
+    "urban"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmTMjKEt6GpkzSQ63BL1xLyhahEs5kaY6N4o135aQnGo8B"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmPJKjATDwJxnUnr1GB7oz9vVZw1UJBJ84G7ztQovadczy"
+  },
+  "supply": "100",
+  "transfered": 100
+}

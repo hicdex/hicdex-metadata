@@ -1,0 +1,45 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493131,
+  "token_id": 105041,
+  "symbol": "OBJKT",
+  "name": "0059AI",
+  "decimals": 0,
+  "description": "Artificial intelligence unites with human creativity. 0000AI is a digital art series that explores new ways of creating art by combining generative adversarial networks with human vision.",
+  "artifact_uri": "ipfs://QmZ136DFTZ4FSZJBdkBi3odzzsBMaZiJgGeqgs5fxsxZWZ",
+  "display_uri": "ipfs://QmUR7npoW7qfGXN1q9xnAW7bABbipc51Kn5riXX54Gap8b",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Kz7fCjjFh83yQFrZTCYLhzpMwpJAK5fqD"
+  ],
+  "tags": [
+    "0000AI",
+    "ai",
+    "artificialintelligence",
+    "digitalart",
+    "digitalpainting",
+    "generativeart",
+    "gan",
+    "neuralnetwork",
+    "surreal",
+    "surrealism",
+    "abstract",
+    "abstractart",
+    "digitalpainting",
+    "art",
+    "hand"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmZ136DFTZ4FSZJBdkBi3odzzsBMaZiJgGeqgs5fxsxZWZ"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmQp5vW4iq2d16Lx7NmhPLZCMY3p3n7Jckm9FC4NwZQfwx"
+  },
+  "supply": "1",
+  "transfered": 2
+}

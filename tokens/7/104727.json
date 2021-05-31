@@ -1,0 +1,40 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492904,
+  "token_id": 104727,
+  "symbol": "OBJKT",
+  "name": "NFTs.tips Miami Treasure Hunt ticket",
+  "decimals": 0,
+  "description": "NFTs.tips Miami Racket Night Club NFT Treasure Hunt Ownership of this ticket entitles you to play the NFTs.tips Treasure Hunt On 6/4/2021 or 6/5/2021 @ Racket Night Club 150 NW 24th St. Miami in the Wynwood area. 6pm  First clue will be revealed at the beginning of the treasure hunt  https://nfts.tips/treasurehunt",
+  "artifact_uri": "ipfs://QmPWY3xVR7Ga2hvqgGSbYXeXnbAqyGvicRUaWqJ7YPmVGa",
+  "display_uri": "ipfs://QmdXdhXUyFtU5EGzFK11uKqwjAZxN3xrktco3L8gySMEhz",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1aoNtBy7CvEn4LsVDcq4HjBgW4YNPsvsaV"
+  ],
+  "tags": [
+    "Nft",
+    "ticket",
+    "nftstips",
+    "miami",
+    "pass",
+    "ticket",
+    "club",
+    "racket",
+    "treasure",
+    "hunt"
+  ],
+  "formats": [
+    {
+      "mimeType": "model/gltf-binary",
+      "uri": "ipfs://QmPWY3xVR7Ga2hvqgGSbYXeXnbAqyGvicRUaWqJ7YPmVGa"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qmbiw4N1tLzYQmWs6auP6YUnFvez9RANMtmbF1dpda7ved"
+  },
+  "supply": "50",
+  "transfered": 0
+}

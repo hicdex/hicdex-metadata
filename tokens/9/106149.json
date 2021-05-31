@@ -1,0 +1,38 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494272,
+  "token_id": 106149,
+  "symbol": "OBJKT",
+  "name": "Spectrum Flower #1 — «Vanishing Shadows»",
+  "decimals": 0,
+  "description": "Drawn by Sorption's sound. This is a visualization of audio spectrum. You can download original file without compression in IPFS = QmYiAVLBuGfmjLUb19JUVcbKNaR52nYTA4aXzctZABVc69 (.mov file, 171mb, 1280x1280)",
+  "artifact_uri": "ipfs://QmecRdMP9FnVtUWvV3UDwPnz353PyrtXfoaM3JpyXiG8qv",
+  "display_uri": "ipfs://QmYprvZZbAYWUGjKaMsAKiFQ4B57Z3dJ32VDq7FfYeEo8D",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Q2HiwNxbSCZpNk3YKimmFm1peHtasYPCA"
+  ],
+  "tags": [
+    "spectrumflower",
+    "audio",
+    "audiovisual",
+    "sound",
+    "atmosphere",
+    "flower",
+    "digital",
+    "sorption"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmecRdMP9FnVtUWvV3UDwPnz353PyrtXfoaM3JpyXiG8qv"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSEfPDPjjg2RsBUkNY3xXTQ6CmT2EFLsH5QX7PnWE7XC3"
+  },
+  "supply": "24",
+  "transfered": 27
+}

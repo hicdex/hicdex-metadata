@@ -1,0 +1,38 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493009,
+  "token_id": 104886,
+  "symbol": "OBJKT",
+  "name": "Nifty Scenes - Bats",
+  "decimals": 0,
+  "description": "Minimalist sceneries, this one pink and blue colors and bats. Bats flying into the sun, never reaching it though..",
+  "artifact_uri": "ipfs://QmPhjSbBcKMs1fccoCnkWeRDaYst3EEYtKwyhcJKV2o48Y",
+  "display_uri": "ipfs://QmPLQHwLQpg8tqratXZu6NBMUaxrPYJHJR64UiQDGLUqZh",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1L6tKhgfqfnkxb8edJ5UWtNJ4gjkMhfb8V"
+  ],
+  "tags": [
+    "minimalism",
+    "vectorart",
+    "niftyscenes",
+    "pink",
+    "blue",
+    "bats",
+    "sun",
+    "royalniftys"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/svg+xml",
+      "uri": "ipfs://QmPhjSbBcKMs1fccoCnkWeRDaYst3EEYtKwyhcJKV2o48Y"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmfEDdR49VdJmo3obcKiDF1xPq3UrmtCZnCWVbgsQSdSVm"
+  },
+  "supply": "50",
+  "transfered": 50
+}

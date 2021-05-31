@@ -1,0 +1,32 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493938,
+  "token_id": 105648,
+  "symbol": "OBJKT",
+  "name": "Geometric Cube",
+  "decimals": 0,
+  "description": "Platonic forms in infinite dimensions. Tools :Zbrush , Blender",
+  "artifact_uri": "ipfs://QmaLmrv9Mdy4WMBkFc8kGawxJMp6BEJ37Wav5RpjzRcEnk",
+  "display_uri": "ipfs://QmYvhYPaGGfZKMW6ZCnjP8mTMeySah6rPAGST5cbi5Quwf",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1QQJQb75WXSghbSfHKkqRmNYVWY8bQs8Lx"
+  ],
+  "tags": [
+    "PLATONIC",
+    "GEOMETRIC"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmaLmrv9Mdy4WMBkFc8kGawxJMp6BEJ37Wav5RpjzRcEnk"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmUVLapPVmxN52ibvcL8f13bKRm6KAoUP7kVQ9TSnfCSpp"
+  },
+  "supply": "2",
+  "transfered": 1
+}

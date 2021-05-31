@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494355,
+  "token_id": 106282,
+  "symbol": "OBJKT",
+  "name": "dirty mixer series 28",
+  "decimals": 0,
+  "description": "animated gif, created May 4th 2021 by ZWIAN",
+  "artifact_uri": "ipfs://QmcYkHF89QcXFoLCSRtvqUjCyWhLgjmckb6oak5TfMGZLh",
+  "display_uri": "ipfs://QmcYkHF89QcXFoLCSRtvqUjCyWhLgjmckb6oak5TfMGZLh",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1MwK8ssW6SkDkySbsvuGDC7mds1KmcQQnJ"
+  ],
+  "tags": [
+    "gif",
+    "glitchart",
+    "videoart",
+    "ZWIAN"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmcYkHF89QcXFoLCSRtvqUjCyWhLgjmckb6oak5TfMGZLh"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmPNmc6FqXp4ssyR36dAfitcDmJWxqrMf4RtH2VRwEXWui"
+  },
+  "supply": "1",
+  "transfered": 3
+}

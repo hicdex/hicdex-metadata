@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494019,
+  "token_id": 105768,
+  "symbol": "OBJKT",
+  "name": "Horizon",
+  "decimals": 0,
+  "description": "Horizon - 15/15 - Perspectives Collection| Digital Work by Alex Benedith| 8000x8000 -  27 MB - 300 DPI Follow my ig: @alex_benedith",
+  "artifact_uri": "ipfs://QmasegZHxtvJAKwcDJL15A9w22ruFxBfTGbDPAaus43J6f",
+  "display_uri": "ipfs://QmWJPVbQf3YcE8TuZDZNAjdkNnb9fEeeVVHUsoYuEU3JsK",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1QeBeFer1M7auxG4DwuzQ2V9zVRuyvJ1Cv"
+  ],
+  "tags": [
+    "Perspective",
+    "Collection",
+    "Horizon",
+    "Digital",
+    "Work",
+    "Painting",
+    "Render",
+    "Blue",
+    "Collors"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmasegZHxtvJAKwcDJL15A9w22ruFxBfTGbDPAaus43J6f"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmfDWoGkaXBsMXFda34iwpxqtZeRSnrLfurbySSyL7PzUa"
+  },
+  "supply": "15",
+  "transfered": 16
+}

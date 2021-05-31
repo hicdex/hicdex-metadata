@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494263,
+  "token_id": 106135,
+  "symbol": "OBJKT",
+  "name": "SpiritTarot #05 VII Seven of Swords",
+  "decimals": 0,
+  "description": "There are 78 cards in total. Each card has 30 copies and 1 special unique limited edition.You can see other cards here: https://www.ainelovia.art/spirittarot",
+  "artifact_uri": "ipfs://QmQrcrChwdsnMqkBxk2RN95Fz5bTFwyBaYDxWDN3wwRQgR",
+  "display_uri": "ipfs://QmbbGQNL8XZa8kjbFnqjjhB8dRXx7eeAQBAHDyJhJSoEzZ",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1XY3oTVw9y3FfL2sKHLV8xbQe2ViGzcJVn"
+  ],
+  "tags": [
+    "illustration",
+    "LOOP",
+    "SPIRITTAROT",
+    "AINELOVIA",
+    "TAROT"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmQrcrChwdsnMqkBxk2RN95Fz5bTFwyBaYDxWDN3wwRQgR"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmXMtSV8YcpYS1Zgu2xKWGEa9diWfHZFunjWSXU9Esvy9S"
+  },
+  "supply": "10",
+  "transfered": 10
+}

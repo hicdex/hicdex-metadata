@@ -1,0 +1,32 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493037,
+  "token_id": 104929,
+  "symbol": "OBJKT",
+  "name": "The Map",
+  "decimals": 0,
+  "description": "640x480, 3 colors, polygon landscape map",
+  "artifact_uri": "ipfs://Qmc1e3MA8vqqyyykjiyyhTzzk1yX8WPErok1YUSNzULMvx",
+  "display_uri": "ipfs://Qmc1e3MA8vqqyyykjiyyhTzzk1yX8WPErok1YUSNzULMvx",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1fnrNZjMZgkuaHXFgvodk3N1TuXcvcaFgB"
+  ],
+  "tags": [
+    "spogelsesmaskinen",
+    "640x480"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://Qmc1e3MA8vqqyyykjiyyhTzzk1yX8WPErok1YUSNzULMvx"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZMkjP75N7jTgSo4tCWWeUiD2Y9ueekPhaaV1ypzQJcP3"
+  },
+  "supply": "10",
+  "transfered": 10
+}

@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493851,
+  "token_id": 105564,
+  "symbol": "OBJKT",
+  "name": "The Heights",
+  "decimals": 0,
+  "description": "Text: \"The heights of great me reached and kept were not attained by sudden flight. But they while their companions slept were toiling upwards in the night.\" - Henry Longfellow. Using Dimentional Script (Dscript)",
+  "artifact_uri": "ipfs://QmWsTaMf5WUQ7TUshBiDbnceJLTwfgFFeBkDcsuQ5AXTCW",
+  "display_uri": "ipfs://QmfEforqKE4RScVXnnHVZgnN4vdvTjyop6fBeHSSH4XKQs",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1hDL9KsV23RxFv2nANAJZ83uomTeR63Haj"
+  ],
+  "tags": [
+    "DigitalCaligraphy",
+    "Caligraphy",
+    "quote",
+    "Longfellow"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmWsTaMf5WUQ7TUshBiDbnceJLTwfgFFeBkDcsuQ5AXTCW"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmTMaeeaJxSKbDQRbeCzMBFKkqgTa5RSqtDhNdoSFVyRWi"
+  },
+  "supply": "3",
+  "transfered": 0
+}

@@ -1,0 +1,47 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492848,
+  "token_id": 104647,
+  "symbol": "OBJKT",
+  "name": "NEAR FUTURE TRANSLATIONS: “You are a soft machine.”",
+  "decimals": 0,
+  "description": "A line of generative poetry written by @Technelegy against the backdrop of a #ReGenerativePoem coded in sunlight and wind by @sashastiles. Edition of 1. www.sashastiles.com #technelegy #arspoeticacybernetica",
+  "artifact_uri": "ipfs://QmYvXuhtAowiwiQ1uq1Jf7cLrYVRSCtSJA4g4b5X523CCV",
+  "display_uri": "ipfs://QmaHAsr8WzpAgCLo77rKSoEpsANdyLB7qhxePRJEjcJrk8",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1UDFDYRcKU2LXkvAVAz5cQ9mBLwmnbtvM4"
+  ],
+  "tags": [
+    "Poetry",
+    "visualpoetry",
+    "AIpoetry",
+    "NPL",
+    "generativetext",
+    "GPT",
+    "Megatron",
+    "neuralnet",
+    "inspiration",
+    "language",
+    "literature",
+    "NFTpoetry",
+    "cryptopoetry",
+    "transhumanism",
+    "technology",
+    "ecoart",
+    "regenerativeart"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmYvXuhtAowiwiQ1uq1Jf7cLrYVRSCtSJA4g4b5X523CCV"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmaNocoQHpVjYoeXzpdSevN9ERCGeaXnpkgqEEYRwbdXDZ"
+  },
+  "supply": "1",
+  "transfered": 0
+}

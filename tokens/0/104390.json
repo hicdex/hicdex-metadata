@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492693,
+  "token_id": 104390,
+  "symbol": "OBJKT",
+  "name": "Forevermore",
+  "decimals": 0,
+  "description": "Sweet melancholic memories, drifting. Very much inspired by the work of @ge1doot.",
+  "artifact_uri": "ipfs://QmckGXGiwWvmwJqLeSftrPh9pCwduQxMrXsRyYdmUQataD",
+  "display_uri": "ipfs://QmPqsFtub44iCLEsuj6J7kgG2Qy4q2wU4A5aRf2zhzTWtE",
+  "thumbnail_uri": "ipfs://QmPqsFtub44iCLEsuj6J7kgG2Qy4q2wU4A5aRf2zhzTWtE",
+  "is_transferable": true,
+  "creators": [
+    "tz1LrQZuDuGrtozMZxhwQAZjdqJjXHPxVja8"
+  ],
+  "tags": [
+    "webgl",
+    "raymarching",
+    "voxel",
+    "generative",
+    "3d"
+  ],
+  "formats": [
+    {
+      "mimeType": "application/x-directory",
+      "uri": "ipfs://QmckGXGiwWvmwJqLeSftrPh9pCwduQxMrXsRyYdmUQataD"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZXbZiewrRCa3AD2EghHtgKgz21QUJhqwjVdgse97T82F"
+  },
+  "supply": "10",
+  "transfered": 23
+}

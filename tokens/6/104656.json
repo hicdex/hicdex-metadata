@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492852,
+  "token_id": 104656,
+  "symbol": "OBJKT",
+  "name": "Cartz Combo #002 - Zombiebits",
+  "decimals": 0,
+  "description": "This is the second combination. Zombiebits chose: Genesis, Sad Boi, and Bunny Boi!",
+  "artifact_uri": "ipfs://QmU2FsChW7fveG9dWN1Yb4j2SdLcZtn3DCH6D546Fxwc4u",
+  "display_uri": "ipfs://QmTooskGEFyv1We8Bu7nWYt5mXx9TjjcPZ8Ehscoeyx56L",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1NVaeYHKTfcQFW7M3f8zNfYNUMZGp4q93Y"
+  ],
+  "tags": [
+    "digital",
+    "design",
+    "collectibles",
+    "gameboizcartz",
+    "nft"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmU2FsChW7fveG9dWN1Yb4j2SdLcZtn3DCH6D546Fxwc4u"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZBiBoxJT1vLDoLVrWtCkKyU7BgbWjbQ9D9fTAp1NzP42"
+  },
+  "supply": "1",
+  "transfered": 1
+}

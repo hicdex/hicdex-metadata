@@ -1,0 +1,31 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493999,
+  "token_id": 105739,
+  "symbol": "OBJKT",
+  "name": "Skoöuüll",
+  "decimals": 0,
+  "description": "Skoöuüll",
+  "artifact_uri": "ipfs://QmUt6kvSGZaENZnJ1ixnRP58fKdTCpUZ9qqqMSfWw6B59k",
+  "display_uri": "ipfs://QmUt6kvSGZaENZnJ1ixnRP58fKdTCpUZ9qqqMSfWw6B59k",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1TgSY1iDDDAKvu8UFDQZZZxgpWiUmwj2iW"
+  ],
+  "tags": [
+    "Skoöuüll"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmUt6kvSGZaENZnJ1ixnRP58fKdTCpUZ9qqqMSfWw6B59k"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmVRK7TzWr1coW6XBFqT5N6ecU4sZntUnNT1uh7bJqfHFa"
+  },
+  "supply": "100",
+  "transfered": 154
+}

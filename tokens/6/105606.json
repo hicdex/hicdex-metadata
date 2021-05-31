@@ -1,0 +1,38 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493898,
+  "token_id": 105606,
+  "symbol": "OBJKT",
+  "name": "EYES OF PANDORA #2",
+  "decimals": 0,
+  "description": "EYES OF PANDORA #2 is my second Pandora's box. I engraved the panels with 6 different eyes to protect the treasure inside. The box #2 is about the darkest period we lived in the lockdown 2020, there was a thing that kept me alive, and i will always keep that treasure in my heart. You will be able to see it only if you download the OBJKT and watch inside the box. Always remind to protect the precious things, expecially the ones that saved you in dark times.",
+  "artifact_uri": "ipfs://QmQ7Vpg3fVwHYJz3BubGdRGcqb87yg58ug4sa3mwwKSE1h",
+  "display_uri": "ipfs://QmdSxtyBKKjMcgbFLGfqoDK8pXiKTV64paMXCpLubifYb4",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz2Pe23qoiDXgWbW7r6LiaVNE1B3d3maQufX"
+  ],
+  "tags": [
+    "box",
+    "pandora",
+    "psychedelic",
+    "love",
+    "hidden",
+    "secret",
+    "lockdown",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "model/gltf-binary",
+      "uri": "ipfs://QmQ7Vpg3fVwHYJz3BubGdRGcqb87yg58ug4sa3mwwKSE1h"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmcVNkkhHRLAsaJNJEejpyqD4jr5unZ6gP4vQfPPi2v6cK"
+  },
+  "supply": "30",
+  "transfered": 31
+}

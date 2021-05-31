@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494093,
+  "token_id": 105868,
+  "symbol": "OBJKT",
+  "name": "REDsistance Avatar Edition → The Rabbit",
+  "decimals": 0,
+  "description": "REDsistance Avatar Edition → The Rabbit · 2K MP4 - HiRes PNG image by DM after purchase → https://microbians.com",
+  "artifact_uri": "ipfs://QmX4h2P8Wza4fmXFiQbog26XsV9soDuGy4NLMgnowuG1kj",
+  "display_uri": "ipfs://QmRpjTMuYem83h7GW98BXLgXfxRDuG5mNgXtJBjsRVhoh1",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1gq3N7hMDL24djrNchbNjx6T4usNuzEK7A"
+  ],
+  "tags": [
+    "microbians",
+    "redsistance",
+    "manga",
+    "anime",
+    "scifi",
+    "illustration",
+    "design",
+    "characters",
+    "avatar"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmX4h2P8Wza4fmXFiQbog26XsV9soDuGy4NLMgnowuG1kj"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmWie9sozUQfSKVHQcWK77Ran4pPZeDABr9xQwpCUYo9ft"
+  },
+  "supply": "95",
+  "transfered": 25
+}

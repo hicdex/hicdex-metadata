@@ -1,0 +1,38 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493479,
+  "token_id": 105276,
+  "symbol": "OBJKT",
+  "name": "intree #1",
+  "decimals": 0,
+  "description": "Interactive SVG of binary tree w/ various options. 1920x1080. ",
+  "artifact_uri": "ipfs://QmPqnGEpd32QdhUY61mXTyCNav6kA88YCnCk34zDztzWPb",
+  "display_uri": "ipfs://QmYtLAGYvvQwffaF4ZEoRoNykLurSiTTo1tL5GDpr9CkED",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Xdk22Qpnfv47gaW8YSkhZMKoXdKCUmWT9"
+  ],
+  "tags": [
+    "generative",
+    "interactive",
+    "svg",
+    "nft",
+    "tezos.cryptoart.tholonic",
+    "binary",
+    "chaos",
+    "order"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/svg+xml",
+      "uri": "ipfs://QmPqnGEpd32QdhUY61mXTyCNav6kA88YCnCk34zDztzWPb"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSyzHX9a3pMZaNVp8XAQ7Yv4GsorrpAZqDMmAbHDFHRFK"
+  },
+  "supply": "99",
+  "transfered": 64
+}

@@ -1,0 +1,40 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493276,
+  "token_id": 105159,
+  "symbol": "OBJKT",
+  "name": "Melting Glitch 3",
+  "decimals": 0,
+  "description": "What is real and what is fake? Glitch it! Gif Art created with DCGAN of historic portraits and images of Trump and then processed with SoX which converted them to sound and back to images. MD5 checksum: ad458d49bc07304ea06fe9ac478ac9bf",
+  "artifact_uri": "ipfs://QmXuT1QKXUHRkdUXoTGuytdrEgFUxbdyGERA2CZETQy4rw",
+  "display_uri": "ipfs://QmXuT1QKXUHRkdUXoTGuytdrEgFUxbdyGERA2CZETQy4rw",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1gmtpm4ZmwNkdfCkbneG1LbAntEAwUufjC"
+  ],
+  "tags": [
+    "bardionson",
+    "glitch",
+    "aiArt",
+    "artificialIntelligence",
+    "gan",
+    "dcgan",
+    "machineLearning",
+    "animatedGif",
+    "gif",
+    "color"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmXuT1QKXUHRkdUXoTGuytdrEgFUxbdyGERA2CZETQy4rw"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmUZdBJsRJmCHD4nSfeay2G9AcPSmYC2yAAQphQMX4yFb6"
+  },
+  "supply": "1",
+  "transfered": 0
+}

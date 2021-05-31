@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493150,
+  "token_id": 105060,
+  "symbol": "OBJKT",
+  "name": "TezHen [B][0012]",
+  "decimals": 0,
+  "description": "Chick, Tan, Hay Yellow, Stick Nest, Zero Eggs, Cheeping, No Accessory. This TezHen has been burned, meaning It can no longer interact with any further operations.",
+  "artifact_uri": "ipfs://QmZa1EtjfXtkGrdE1E5AWox37mKxZF8JDCULhttY4XPFtr",
+  "display_uri": "ipfs://QmZa1EtjfXtkGrdE1E5AWox37mKxZF8JDCULhttY4XPFtr",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1fngBbafkeRagkNM8kXBuQqYSDrAfmQQok"
+  ],
+  "tags": [
+    "TezHens",
+    "Burned",
+    "Chick",
+    "Tan",
+    "Hay-Yellow",
+    "Stick-Nest",
+    "Zero-Eggs",
+    "Cheeping",
+    "No-Accessory"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmZa1EtjfXtkGrdE1E5AWox37mKxZF8JDCULhttY4XPFtr"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmQd9tdZWh6ktThPDHbECnPQRX5TgCtKuj4xCQg9uDQiAD"
+  },
+  "supply": "1",
+  "transfered": 1
+}

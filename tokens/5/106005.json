@@ -1,0 +1,40 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494186,
+  "token_id": 106005,
+  "symbol": "OBJKT",
+  "name": "Dementia",
+  "decimals": 0,
+  "description": "« Brain — In — Disorder » series visually explores pain and troubles as personality change, confusion, paranoia, anxiety… that suffering from brain disorders may cause. 2000x2500px — Static.",
+  "artifact_uri": "ipfs://QmPUyNYhaSZEh9R957ovvo6drMBMujDTyFTXuNfZMYaCKS",
+  "display_uri": "ipfs://QmPNwRhRTu8CxdqYtYrRqXb7avLkHF5zbRyUKA3mMmdveX",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Qjd8QPa1N4fppmsUVNmZa28NRPhvkQEyJ"
+  ],
+  "tags": [
+    "glitch",
+    "glitchart",
+    "glitchart",
+    "glitchaesthetic",
+    "glitchaesthetic",
+    "pixelsorting",
+    "pixelsorting",
+    "generativeart",
+    "generativeart",
+    "glitches"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmPUyNYhaSZEh9R957ovvo6drMBMujDTyFTXuNfZMYaCKS"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmXmG59n7mMUnf9uKP4nnVWa3qTNvhWB4k4uvTzGqipKSi"
+  },
+  "supply": "20",
+  "transfered": 0
+}

@@ -1,0 +1,45 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494208,
+  "token_id": 106055,
+  "symbol": "OBJKT",
+  "name": "Quantum indeterminacy 3",
+  "decimals": 0,
+  "description": "One being and yet multiple. Simultaneously. In a dream...by Mihai Grecu, 2012, IG:@thegrecu ,twitter:@the_grecu",
+  "artifact_uri": "ipfs://QmVyyuwU8s6GzYananRPqXomWXw7HSihtVffzRCN7RE2S6",
+  "display_uri": "ipfs://QmP3ToZg16UTafyZa1cfAKjBJ98UE2iJYJzUM6nML3gDtE",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1dCmVe2mLsHrt1fmDvs64wpeLtsdJJnbAN"
+  ],
+  "tags": [
+    "fish",
+    "fishtank",
+    "weird",
+    "weirdart",
+    "surreal",
+    "goldfish",
+    "experimental",
+    "videoart",
+    "quantumphysics",
+    "quantum",
+    "border",
+    "limit",
+    "transparency",
+    "glass",
+    "sphere"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmVyyuwU8s6GzYananRPqXomWXw7HSihtVffzRCN7RE2S6"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSbtR1QBNv14kgR7TRfLn6vUgxqN5d86i6nbZxeULtgLz"
+  },
+  "supply": "16",
+  "transfered": 24
+}

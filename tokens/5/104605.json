@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492825,
+  "token_id": 104605,
+  "symbol": "OBJKT",
+  "name": "Cartz Combo #001 - Quick Bill",
+  "decimals": 0,
+  "description": "This is a combination of Cat Boi, Demon Boi, and Angel Boi! These are really fun to make! If you would like one, and you have 3+ cartz, let me know!",
+  "artifact_uri": "ipfs://QmTmbJdPFSi45XQx9Kaj2xJn3nKYY6vrD3WiqmfWUcy5rx",
+  "display_uri": "ipfs://Qmbm8fDVfahjDbWKBAxRbT7psFf5wciqteycSccKbeCbNC",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1NVaeYHKTfcQFW7M3f8zNfYNUMZGp4q93Y"
+  ],
+  "tags": [
+    "cartzcombo",
+    "digital",
+    "collectible",
+    "design",
+    "gameboizcartz"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmTmbJdPFSi45XQx9Kaj2xJn3nKYY6vrD3WiqmfWUcy5rx"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qme1kiaMWcc46BEwGqwFQJG6zJ6QYpeSFcSPT4y6hDGEXd"
+  },
+  "supply": "1",
+  "transfered": 1
+}

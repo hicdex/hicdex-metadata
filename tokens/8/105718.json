@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493989,
+  "token_id": 105718,
+  "symbol": "OBJKT",
+  "name": "Bipolar",
+  "decimals": 0,
+  "description": "What's it gonna be today?",
+  "artifact_uri": "ipfs://QmVCQSJGKHCRvSosCjjJ9DtMjyrkNXrEQu85hnAZkUnNBT",
+  "display_uri": "ipfs://Qmbm1bhcB7chU5Z3vxQqToNTeaj9Gp1BLK8H1yVnbuH2fQ",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1hwD6EVS7gmiMv4R6RbzEqDEdjmm7N8Rk7"
+  ],
+  "tags": [
+    "bipolar",
+    "art",
+    "animation",
+    "moodswing",
+    "digitalart"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmVCQSJGKHCRvSosCjjJ9DtMjyrkNXrEQu85hnAZkUnNBT"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmUJ47T8M1DsESMoqdywxd3VuXxQxd4XAiuUKpuFajEzsB"
+  },
+  "supply": "10",
+  "transfered": 10
+}

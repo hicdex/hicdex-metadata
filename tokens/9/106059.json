@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494210,
+  "token_id": 106059,
+  "symbol": "OBJKT",
+  "name": "CryptoBlunt XXX 1/1 Collectors Edition",
+  "decimals": 0,
+  "description": "A 1/1 Custom-made CryptoBlunt especially for collectors has been sparked on the Tezo blockchain.   This CryptoBlunt was inspired by the stunning NightKidz Collection of NFTs.    This 1/1 CryptoBlunt was originally rewarded to the first collector of the only 5 CryptoBlunts available on H=N.   Let's get CUSTOM CryptoBlunted! ",
+  "artifact_uri": "ipfs://QmeZLb8XEhvzZxuHXTnPaxyp5B4yWUszGwFMCeBvFs3Nim",
+  "display_uri": "ipfs://QmeZLb8XEhvzZxuHXTnPaxyp5B4yWUszGwFMCeBvFs3Nim",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Nezg8tTsN4kMYnMk9CsKLgMhsftHHeESv"
+  ],
+  "tags": [
+    "CryptoBlunt",
+    "CryptoBlunts",
+    "cannabis",
+    "nft",
+    "horror"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmeZLb8XEhvzZxuHXTnPaxyp5B4yWUszGwFMCeBvFs3Nim"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmavhDcGkZYtqFRzdrjCu4V7K11iffeyT79fAAMyjgu1nX"
+  },
+  "supply": "1",
+  "transfered": 1
+}

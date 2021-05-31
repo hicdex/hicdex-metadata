@@ -1,0 +1,40 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494063,
+  "token_id": 105817,
+  "symbol": "OBJKT",
+  "name": "Bad Boi",
+  "decimals": 0,
+  "description": "I keep the BAD BOI image to keep my fans Happy... Collect the Artpiece and Connect with me through Instagram:- @simplykanav",
+  "artifact_uri": "ipfs://QmTCpQ9q9NpPwDMUXPh2uVRjBgRsmdVy7idGg7cGH2scAv",
+  "display_uri": "ipfs://QmTCpQ9q9NpPwDMUXPh2uVRjBgRsmdVy7idGg7cGH2scAv",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1aYsexuquML1sfvYzj9sMsGrEyL9KjYmTw"
+  ],
+  "tags": [
+    "badboi",
+    "nft",
+    "nftartwork",
+    "nftartist",
+    "crypto",
+    "cryptoartwork",
+    "cryptocurrency",
+    "trending",
+    "tezos",
+    "hen"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmTCpQ9q9NpPwDMUXPh2uVRjBgRsmdVy7idGg7cGH2scAv"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZvpLgjX68MPjaRB8L9hdn5D6xVwAkajTJ3h8nK3moGLw"
+  },
+  "supply": "20",
+  "transfered": 20
+}

@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493245,
+  "token_id": 105138,
+  "symbol": "OBJKT",
+  "name": "the point of inflection",
+  "decimals": 0,
+  "description": "companion to 'postcard from the precariat' and 'proof of stake' - owners of OBJKT#105112 and OBJKT#105115 will automatically receive this OBJKT in the corresponding wallet | Brendan Conrad Forde | @acid_very",
+  "artifact_uri": "ipfs://QmRPrMQqnEd9ejM4nCR3d6U7bdE3QzfWdU92avYPTXyUXo",
+  "display_uri": "ipfs://QmekK3tXTun922sfQjCQAPXLkCDRAVPkAEabMhyphn1Wwg",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Xd75PTAwQhK9TAhUZxB7GtdczkE3397Bu"
+  ],
+  "tags": [
+    "inflection",
+    "point",
+    "operational",
+    "bias"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmRPrMQqnEd9ejM4nCR3d6U7bdE3QzfWdU92avYPTXyUXo"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmTJrU4LHc8AJ5YpjQUAKgrN5iQnk7Gv59CC5c4LKDVnek"
+  },
+  "supply": "6",
+  "transfered": 0
+}

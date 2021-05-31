@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493974,
+  "token_id": 105696,
+  "symbol": "OBJKT",
+  "name": "The Bubble Girl Statue",
+  "decimals": 0,
+  "description": "Things becomes fragile in matter of time",
+  "artifact_uri": "ipfs://QmVinkUasqjDT5p9Pm1PRD1tTgKeMGQzyXK1jgWfBwAkWD",
+  "display_uri": "ipfs://QmSiaExWkeeBGP6ib8MLp3AmRfQLDQqC3dQj9KzLeTh4SE",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1afhvjDZtEKVH3qx9LUrsSjQkXtb7MYCvU"
+  ],
+  "tags": [
+    "3D",
+    "Render",
+    "DigitalArt",
+    "Bubble",
+    "Statue"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmVinkUasqjDT5p9Pm1PRD1tTgKeMGQzyXK1jgWfBwAkWD"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmdBZasafUFAsFHefZYyUfX2g26hasGaqpeu9mwyXgpfsb"
+  },
+  "supply": "35",
+  "transfered": 35
+}

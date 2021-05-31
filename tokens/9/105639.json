@@ -1,0 +1,46 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493928,
+  "token_id": 105639,
+  "symbol": "OBJKT",
+  "name": "ABBA",
+  "decimals": 0,
+  "description": "Empty wine bottles. The smell of grass and grass. Early morning and birds chirping. A 740 pass by with raggare. Djurgårdsbron.",
+  "artifact_uri": "ipfs://QmcZCypbVoZS82iWU4pMKatYTGzNJLmsofCinEX5D4tvPU",
+  "display_uri": "ipfs://QmcZCypbVoZS82iWU4pMKatYTGzNJLmsofCinEX5D4tvPU",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1e2uANzar3p9kjL4Ci6e9y7TWf4FyXbU3h"
+  ],
+  "tags": [
+    "artist;masajada",
+    "hicetnunc",
+    "art",
+    "animation",
+    "24colors",
+    "gif",
+    "photography",
+    "loop",
+    "collectible",
+    "cryptoart",
+    "nftart",
+    "psychedelic",
+    "experimental",
+    "photo",
+    "vincy784",
+    "ship"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmcZCypbVoZS82iWU4pMKatYTGzNJLmsofCinEX5D4tvPU"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmXioydj1CtuFZZTkZMqa8e4dj8dZvMxfAfKAKDQfTr2D9"
+  },
+  "supply": "1",
+  "transfered": 0
+}

@@ -1,0 +1,32 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493278,
+  "token_id": 105162,
+  "symbol": "OBJKT",
+  "name": "Cube scene",
+  "decimals": 0,
+  "artifact_uri": "ipfs://QmddNtmrTLzGMQrGNGSYG5Bxsxzs6zoXyK45CLbv1yKhd8",
+  "display_uri": "ipfs://QmQGNnuigRoz6fas1S468YFheW2Jm2M4xCdC8KaZ8kUiEP",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1eKBXSoMioeLAfAEde7AR3WfxAEa6uvwka"
+  ],
+  "tags": [
+    "voxel",
+    "voxelart",
+    "frankydred"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmddNtmrTLzGMQrGNGSYG5Bxsxzs6zoXyK45CLbv1yKhd8"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmQwsQkV98ToL9gisjmjX7okDLEMnY2M6vzM16NEMdEtjm"
+  },
+  "supply": "20",
+  "transfered": 20
+}

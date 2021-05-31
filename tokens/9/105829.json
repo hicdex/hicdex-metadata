@@ -1,0 +1,42 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494068,
+  "token_id": 105829,
+  "symbol": "OBJKT",
+  "name": "Psychedelic Punk 0",
+  "decimals": 0,
+  "description": "Join the trippy universe of handmade psypunks! All designs are hand created through hours of hard creative labour.i intend to create ALL 10,000 PUNKS. I hope you enjoy these. Check out the others in my collection. 💟🌈",
+  "artifact_uri": "ipfs://QmWLCUG3mTwwRNtQsot4fdggGQS3zEAHEJSwBkW2aDtmyx",
+  "display_uri": "ipfs://QmdAWGi7py7E6HFrnDWXZoLyC2r5uzpD41AV5bjQnCAwfA",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz2AgBvR76SS2VHZB3bDpWntDP6GZpgCuMa4"
+  ],
+  "tags": [
+    "Cyberpunks",
+    "altpunks",
+    "unofficialpunks",
+    "psychedelicart",
+    "trippy",
+    "3danimation",
+    "animation",
+    "mindfulness",
+    "pocartwork",
+    "diversity",
+    "digitalart",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmWLCUG3mTwwRNtQsot4fdggGQS3zEAHEJSwBkW2aDtmyx"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmbLhQHMkvVF4ZF7hFDvtodDEsFsNfPuGvKWQ6onWaiReo"
+  },
+  "supply": "1",
+  "transfered": 2
+}

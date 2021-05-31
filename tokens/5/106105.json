@@ -1,0 +1,48 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494243,
+  "token_id": 106105,
+  "symbol": "OBJKT",
+  "name": "Demonic Ape",
+  "decimals": 0,
+  "description": "Surrealistrasyon//Şerif Gümüşbaş//In masochism, one needs pain to feel it exists. In this way, one tries to prove to herself/himself that she/he exists.All psychological problems are in all of us in some amount, and they are visible at times. And if these feelings are too unknowable to somebody, they may feel as if they are communicating with their inner demon//Drawing is an impressive language for me with its universal and differentiating structure in every viewer. I also love and use the automatism method because it is a pleasant and mysterious way to express myself and what I perceive about existence, the world, and life.",
+  "artifact_uri": "ipfs://QmWkNHRZkdwTptbLVc7rmsfqsWf6STHPgDLgVY2445KVN7",
+  "display_uri": "ipfs://QmYsuwZhawWi9phnRXmwoxviB3SDoePC9HqA1qHtaVqQc9",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1QqJUTLdcQ9ZUKXMGj6Ut5JYNqpwfJfbdF"
+  ],
+  "tags": [
+    "evil",
+    "demon",
+    "ape",
+    "monkey",
+    "symbolic",
+    "masochism",
+    "hell",
+    "darkart",
+    "surrealism",
+    "portrait",
+    "automatism",
+    "lineart",
+    "dark",
+    "inferno",
+    "underworld",
+    "skull",
+    "surrealistrasyon",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmWkNHRZkdwTptbLVc7rmsfqsWf6STHPgDLgVY2445KVN7"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZnmmiDYFgpDNxAmc2yHAmdTY2kSLmTSpfqiiiqCSNASi"
+  },
+  "supply": "22",
+  "transfered": 10
+}

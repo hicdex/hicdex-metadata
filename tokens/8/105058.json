@@ -1,0 +1,30 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493146,
+  "token_id": 105058,
+  "symbol": "OBJKT",
+  "name": "test",
+  "decimals": 0,
+  "artifact_uri": "ipfs://QmNYHtewGjY8fy69Q3oXk56i9QUXYs55Tvvpok8tGawesa",
+  "display_uri": "ipfs://QmT6GrzMP1nPppdZh4bNqp52pud1zaZJNLn2MV21fTGLBn",
+  "thumbnail_uri": "ipfs://QmSZzdrJ2G1JyPRYRB4XCkTjEkF3fLKhEtRLBTr87A5g4B",
+  "is_transferable": true,
+  "creators": [
+    "tz1VSUZ1k1QNcgNy6UgR9xHATTzMGNzMSbw4"
+  ],
+  "tags": [
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "application/x-directory",
+      "uri": "ipfs://QmNYHtewGjY8fy69Q3oXk56i9QUXYs55Tvvpok8tGawesa"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qma1PhvQQKWoq938spbp83LN6PFJuxA7ixryX9XatQ4bT5"
+  },
+  "supply": "1",
+  "transfered": 1
+}

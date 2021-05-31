@@ -1,0 +1,44 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492676,
+  "token_id": 104355,
+  "symbol": "OBJKT",
+  "name": "Fractal city. Cyberpunk style.",
+  "decimals": 0,
+  "description": "Dark futuristic cyberpunk city. 3D fractal. Conceptual art.",
+  "artifact_uri": "ipfs://QmVqoPj6Hqr4Mr5zxCHQJrmkSgdZW7dyfd2KpZrjgcSQ6T",
+  "display_uri": "ipfs://QmetNhf6ZjuqLtmRJwZxzdPg33tz7NnorohHAymeLQdC4Z",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1cksqtXMBbKu2QzFfmqMvFPq6x8EHM919z"
+  ],
+  "tags": [
+    "futuristic",
+    "future",
+    "cyberpunk",
+    "fractal",
+    "fractalart",
+    "cyberpunk",
+    "cyber",
+    "neon",
+    "glow",
+    "blue",
+    "purple",
+    "haze",
+    "futuristiccity",
+    "3dfractal"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmVqoPj6Hqr4Mr5zxCHQJrmkSgdZW7dyfd2KpZrjgcSQ6T"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZMerKg4bpqkqv75pKfBpuGE2bKGacbq5tT6K2tz7PUFy"
+  },
+  "supply": "15",
+  "transfered": 25
+}

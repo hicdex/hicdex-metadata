@@ -1,0 +1,33 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493076,
+  "token_id": 104977,
+  "symbol": "OBJKT",
+  "name": "blu3's glitch",
+  "decimals": 0,
+  "description": "1:21:03 // 360 logo glitch loop // track by @frankumjay",
+  "artifact_uri": "ipfs://Qmb81bTza3myj37qym8NASLzeCUPJtnNUunQFUxqkjAbhL",
+  "display_uri": "ipfs://QmPGk9gU4ELcqwsJPitDcWSE18KAgXWtkjesuZkAZ9noEQ",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Yfn8AE4MTRAJj439fx2vMduWVZxk4pptG"
+  ],
+  "tags": [
+    "blu3",
+    "glitch",
+    "loop"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://Qmb81bTza3myj37qym8NASLzeCUPJtnNUunQFUxqkjAbhL"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSc1CQsB74XacRKWZu4ZxtdeUrMxPCJQtw3HXRJGEAcgR"
+  },
+  "supply": "1000",
+  "transfered": 0
+}

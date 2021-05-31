@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493938,
+  "token_id": 105647,
+  "symbol": "OBJKT",
+  "name": "looks #2",
+  "decimals": 0,
+  "description": " Looks is a series of portraits where drawing and the combination of analog and digital techniques focus on the eyes, the emotions that are transmitted through them.",
+  "artifact_uri": "ipfs://QmWE9G66nFvVnJ9qB5GcmHmBxeqT9KdGQrjWbkz3kbQZXT",
+  "display_uri": "ipfs://QmePdWzv26oiKT1zghR8XW59Hji2s8n99RH1hRmPoEkwBa",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1X8aWexE7AQDjhEEDnAZPbJ75RNd7SCnLM"
+  ],
+  "tags": [
+    "rare",
+    "abstract",
+    "paint",
+    "fantasy"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmWE9G66nFvVnJ9qB5GcmHmBxeqT9KdGQrjWbkz3kbQZXT"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmPLU6UPvX2cWLQrS2GWY9YyV3x1aBo5ss12FqEbSe6jPg"
+  },
+  "supply": "5",
+  "transfered": 5
+}

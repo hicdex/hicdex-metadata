@@ -1,0 +1,33 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493855,
+  "token_id": 105569,
+  "symbol": "OBJKT",
+  "name": "Jude Lennon :: Mystery Fish 0159/1000 ",
+  "decimals": 0,
+  "description": "Born 30 May 2021 at 13:13:38 to breeder tz1URU7gu3QV36gxB6P924Qbud13cGyp1N1A (SalahYK) :: Seed onh1oegGicPVHHojpgprpKbtM3LT9WN3wUmcnf38ANi3NmmPjf50. Jude Lennon and their snail friends Silas and Titan love life in their tank and their Skull and Invader :: Give a home to your very own unique Mystery Fish by burning a Fish Token (OBKT#81257) :: Made with ThreeJS :: http://Mystery.fish",
+  "artifact_uri": "ipfs://QmUFECeQHbYGxaWUFP4Zpgm3hHsEvjwuo9urnKQcqHfucL",
+  "display_uri": "ipfs://QmeB6eghNChcJzwPbc65hF8rfqczH9vjqkKs2WKHkB9mCF",
+  "thumbnail_uri": "ipfs://Qmb8QNVzEbACp1g64dMMSidrHc4bLbysuKmRhHVYEGB6CC",
+  "is_transferable": true,
+  "creators": [
+    "tz1QWFRpbN4rA8vABvxPAREtuffu6F1VKFTB"
+  ],
+  "tags": [
+    "MysteryFish",
+    "ProceduralPets",
+    "Sh!g"
+  ],
+  "formats": [
+    {
+      "mimeType": "application/x-directory",
+      "uri": "ipfs://QmUFECeQHbYGxaWUFP4Zpgm3hHsEvjwuo9urnKQcqHfucL"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmajhhBb9BR94VYtuRFxSWPvSWVe5kYg8yu9XjtVaPBm1d"
+  },
+  "supply": "1",
+  "transfered": 1
+}

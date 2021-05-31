@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494253,
+  "token_id": 106122,
+  "symbol": "OBJKT",
+  "name": "Limbic Resonance",
+  "decimals": 0,
+  "description": "Energies travel through space and time. They become resonant in the mind. Artist: genieve",
+  "artifact_uri": "ipfs://QmUEgtm2PMbhu9KvFteSfSSqY1RzfTgv7qoDM1dAtFLkR8",
+  "display_uri": "ipfs://QmUYKUJFV4irXAKrfuadrGdqQWYw9rUh6BuaSf3X6iSyC2",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz2GoQHhadigAa56HnAXTGAYpYn8xUZsrG11"
+  ],
+  "tags": [
+    "Portrait",
+    "photography",
+    "genieve",
+    "painting"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmUEgtm2PMbhu9KvFteSfSSqY1RzfTgv7qoDM1dAtFLkR8"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmWxdCrDkhzqbpnFxyjSKqJL5n8xreFg9Uv17XXdAb1592"
+  },
+  "supply": "10",
+  "transfered": 9
+}

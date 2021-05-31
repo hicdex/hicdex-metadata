@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493014,
+  "token_id": 104893,
+  "symbol": "OBJKT",
+  "name": "Sway Tray",
+  "decimals": 0,
+  "description": "Our Original Sway Tray. Roll up in the Metaverse. Physical Piece redeemable @araretaste",
+  "artifact_uri": "ipfs://QmdZpvHBmbgqdSs5b3aK9d421XdtLjXx2dzowwXkVFUiQ3",
+  "display_uri": "ipfs://QmPEtCKQASZs2DJGhvF8hhJZAjsJ8TUigfchYJEzyti5bx",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1SYnTdCHy1wPYqmX2fVp15P3Ey1Y8yPExe"
+  ],
+  "tags": [
+    "ARareTaste",
+    "Trays",
+    "Sway",
+    "A.R.T.",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmdZpvHBmbgqdSs5b3aK9d421XdtLjXx2dzowwXkVFUiQ3"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmbWWeFe5xFFV5rvwjTKVD3bhwEkVLj9cVQde6zus6oiPG"
+  },
+  "supply": "50",
+  "transfered": 0
+}

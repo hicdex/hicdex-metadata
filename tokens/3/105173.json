@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493303,
+  "token_id": 105173,
+  "symbol": "OBJKT",
+  "name": "Descartes’ Epiphany",
+  "decimals": 0,
+  "description": "“Cogito, ergo sum.” —René Descartes",
+  "artifact_uri": "ipfs://QmP2hpFd6RPnnnkfNCuBaJg7KgSKGrjHUaM2krarwbzuaN",
+  "display_uri": "ipfs://QmP2hpFd6RPnnnkfNCuBaJg7KgSKGrjHUaM2krarwbzuaN",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1a67zrJ1MSFHYaCVfctxDWWxXSWdeCAdWy"
+  ],
+  "tags": [
+    "surreal",
+    "pataphysics",
+    "philosophy",
+    "collage",
+    "surrealism",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmP2hpFd6RPnnnkfNCuBaJg7KgSKGrjHUaM2krarwbzuaN"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmexrWvRoumiDagdvGY6a4QzWEMVJsKd8fjzbG1ejZ916f"
+  },
+  "supply": "1",
+  "transfered": 0
+}

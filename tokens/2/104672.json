@@ -1,0 +1,32 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492860,
+  "token_id": 104672,
+  "symbol": "OBJKT",
+  "name": "Uggliz RGB Experiment - Reward",
+  "decimals": 0,
+  "description": "Special Reward for those who own each of all three uggliz from the RGB Series.",
+  "artifact_uri": "ipfs://QmQqrZHqikyKguvBxEHvvY5SonszRFRVQyXtktWm4ChPHw",
+  "display_uri": "ipfs://QmQqrZHqikyKguvBxEHvvY5SonszRFRVQyXtktWm4ChPHw",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1Xm4FQcpRMbtATgozA97hykLtNZgF4stvz"
+  ],
+  "tags": [
+    "uggliz",
+    "rgb"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmQqrZHqikyKguvBxEHvvY5SonszRFRVQyXtktWm4ChPHw"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmVZMsuwoQxQdYdErNjWFQ1zgE6Yv5DKVeDmQ41hpomTHJ"
+  },
+  "supply": "20",
+  "transfered": 1
+}

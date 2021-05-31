@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493335,
+  "token_id": 105186,
+  "symbol": "OBJKT",
+  "name": "Bunny Knights #150",
+  "decimals": 0,
+  "description": "Bunny Knights is a crypto-collectible project available on the Tezos network. There is a total of 500 pixel art bunnies waiting to be collected!",
+  "artifact_uri": "ipfs://QmYM4g2GBv39nenQa2yHVMLtQ6MH3LTXA1Yc5AhkqmLkSF",
+  "display_uri": "ipfs://QmYM4g2GBv39nenQa2yHVMLtQ6MH3LTXA1Yc5AhkqmLkSF",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1RnCGSjMafWbx6WioVAyw8wxSDTz7parWU"
+  ],
+  "tags": [
+    "Class:Warrior",
+    "Race:Bunny-Troll",
+    "Fur:Mixed",
+    "Alignment:Powerful",
+    "Weapon:GiantClub"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmYM4g2GBv39nenQa2yHVMLtQ6MH3LTXA1Yc5AhkqmLkSF"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qmek4HccCVaNjpCkeM5Bb66N3ngzBDqa3eHFcq2qzxjsY7"
+  },
+  "supply": "1",
+  "transfered": 1
+}

@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493984,
+  "token_id": 105713,
+  "symbol": "OBJKT",
+  "name": "Upward Spiral 💜🟡⁠",
+  "decimals": 0,
+  "description": "This edition in particular is made of violet & yellow industrial wax on DIN A1 (59,4 x 84,1cm / 23,4 x 33,1in) on 190gsm Hahnemühle paper - Edition 1/1 - 26.05.2021 - Marcel Schwittlick (@schwittlick_). The nft comes with the original drawing, international shipping included. Upon resale on the secondary market the original drawing shall be sent to the new owner. Shipping will be covered by the new owner.",
+  "artifact_uri": "ipfs://Qmbshbkhc3PVmxiEyhUXZJpTAvTuheKhx9egcaxyhFHM9k",
+  "display_uri": "ipfs://QmX7WdTswypMATcypqALGMqiR3ebEoivZXU2JPWPXBCwg1",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1c3hFmjFSwunjLHECnYyjr42KRt5YiHrGX"
+  ],
+  "tags": [
+    "drawing",
+    "plotter",
+    "wax",
+    "spiral",
+    "💜",
+    "🟡"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://Qmbshbkhc3PVmxiEyhUXZJpTAvTuheKhx9egcaxyhFHM9k"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSRghs8vYtXJNPDTvaCwDwBG2fY7QTEDpmrxrnTZhut9f"
+  },
+  "supply": "1",
+  "transfered": 1
+}

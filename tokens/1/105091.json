@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493179,
+  "token_id": 105091,
+  "symbol": "OBJKT",
+  "name": "3 of 6 NFT Trading Cards: Probably COVID-19, Mystery Illness Documentation; Artist: Anonymous#19",
+  "decimals": 0,
+  "description": "CARD #3 - ATTEMPTING SOME CHEST CLEARANCE TECHNIQUES LEARNED ONLINE. This is one where you constrict the lower part of the lungs forcing the mucus upwards and out. 22 may, 20/20",
+  "artifact_uri": "ipfs://QmcKZmNFQXMn1juWLzJ9WbfD6euS5Yz78errz8WSQdpREj",
+  "display_uri": "ipfs://QmcKZmNFQXMn1juWLzJ9WbfD6euS5Yz78errz8WSQdpREj",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1dJsp1owh5mJe6GPNhbYes2BGNKy5p3Y6M"
+  ],
+  "tags": [
+    "conceptual",
+    "covid-19",
+    "covid19",
+    "anonymous19",
+    "anonymous#19",
+    "illness",
+    "documentation",
+    "mystery",
+    "photograph"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmcKZmNFQXMn1juWLzJ9WbfD6euS5Yz78errz8WSQdpREj"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSjmHx6Wo2P92TUmbMrXfipPMa1NKKDdsApU7eQL1eLXs"
+  },
+  "supply": "100",
+  "transfered": 0
+}

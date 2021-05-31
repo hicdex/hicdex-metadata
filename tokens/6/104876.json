@@ -1,0 +1,41 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492999,
+  "token_id": 104876,
+  "symbol": "OBJKT",
+  "name": "got.blood? shiny ver.",
+  "decimals": 0,
+  "description": "血？血？血？血？血？- artwork from 2019 remixed in 2021. always been one of my favourites. This is the rare shiny remixed version. Only for the luckiest cats.",
+  "artifact_uri": "ipfs://QmT2dWNiWRfC51EGP1gFoU7Vfs9UkAaQmHnrjGCXGsCJpS",
+  "display_uri": "ipfs://QmT2dWNiWRfC51EGP1gFoU7Vfs9UkAaQmHnrjGCXGsCJpS",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1RSWDfALf4RR8tKCqmo55ArK6MfpnYwvtb"
+  ],
+  "tags": [
+    "retro",
+    "pink",
+    "pixel",
+    "femikipixel",
+    "dither",
+    "illustration",
+    "gif",
+    "glitch",
+    "portrait",
+    "vampire",
+    "blood"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmT2dWNiWRfC51EGP1gFoU7Vfs9UkAaQmHnrjGCXGsCJpS"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmNpUBtriSyb3QEdizyXry6BmtsPGJbnhBHH46gsPWgN3F"
+  },
+  "supply": "6",
+  "transfered": 0
+}

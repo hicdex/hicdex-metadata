@@ -1,0 +1,32 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494287,
+  "token_id": 106170,
+  "symbol": "OBJKT",
+  "name": "IDEA 10: LOOK IN THE MIRROR",
+  "decimals": 0,
+  "description": "Look in the mirror and see who you want to be, then look again and see how close you are.",
+  "artifact_uri": "ipfs://QmSqtgjhptYo51px1884DXViVdP3xxwLXcEAA7rws1qZow",
+  "display_uri": "ipfs://QmbFJVfRE4xvLA4CnjuEmaGerPimViR3spvqGmdqAih6yZ",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1VfB8vpb9LNxXeKQzgcjLQoHCcr3AsrHht"
+  ],
+  "tags": [
+    "IDEA-BY-MATTO",
+    "LOGO-BY-ZON"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmSqtgjhptYo51px1884DXViVdP3xxwLXcEAA7rws1qZow"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmUtbLWAQpfi3nvZVTTSNwvbvczGg2Tut5JFK5QCdPZza3"
+  },
+  "supply": "1",
+  "transfered": 1
+}

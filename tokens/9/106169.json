@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494287,
+  "token_id": 106169,
+  "symbol": "OBJKT",
+  "name": "Penny's Journey #5  \" This is How She Sees ME! \"",
+  "decimals": 0,
+  "description": "Join phenomenal collection today! Much more coming soon!",
+  "artifact_uri": "ipfs://Qma18Re33xHNhQA8Wj328EADTPhPjTci847p9NS3tFyZok",
+  "display_uri": "ipfs://Qma18Re33xHNhQA8Wj328EADTPhPjTci847p9NS3tFyZok",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1a98sjozPGasjWHMNc95kn7dL73PVpKyxw"
+  ],
+  "tags": [
+    "Penny'sJourney",
+    "comics",
+    "3D",
+    "animation",
+    "originalcharacter"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://Qma18Re33xHNhQA8Wj328EADTPhPjTci847p9NS3tFyZok"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmYgq1Qhwd8nKhtrKNf9jXZHDza55qnGruQVe6ABd8kwa7"
+  },
+  "supply": "10",
+  "transfered": 9
+}

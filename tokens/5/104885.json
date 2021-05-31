@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493009,
+  "token_id": 104885,
+  "symbol": "OBJKT",
+  "name": "One Touch Tray",
+  "decimals": 0,
+  "description": "Our Original \"One Touch\" Decor Tray. Roll up in the Metaverse. Physical Piece redeemable. @araretaste",
+  "artifact_uri": "ipfs://QmVxww1UTmjqUv89mqn3LcnEEHLK4X2qTNBGSCQAsNs2Za",
+  "display_uri": "ipfs://QmUC3uhiBFXyxHKpWb7yKwRFY4um6hXjyefkccx7eLJsyn",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1SYnTdCHy1wPYqmX2fVp15P3Ey1Y8yPExe"
+  ],
+  "tags": [
+    "OneTouch",
+    "Tray",
+    "Decor",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmVxww1UTmjqUv89mqn3LcnEEHLK4X2qTNBGSCQAsNs2Za"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZVV5VTjWXCve9aCddW6qfBtiDNxtPATnBa1fwNWvSPij"
+  },
+  "supply": "50",
+  "transfered": 0
+}

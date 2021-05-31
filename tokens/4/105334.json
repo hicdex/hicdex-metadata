@@ -1,0 +1,33 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493603,
+  "token_id": 105334,
+  "symbol": "OBJKT",
+  "name": "Furbugmonkey",
+  "decimals": 0,
+  "description": "Wormy evolution forms that can live in the arctic.",
+  "artifact_uri": "ipfs://QmcmDWgRytY8osLw8zeizBeNwEWmCqVVmbvQmSSCey4iZd",
+  "display_uri": "ipfs://QmVNZaxHCvV2qJWDpvU2CREzGBm9bWYQqeCfShaTMtCGiM",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1YsCDso4Yxm8iu7PhivSz8s611MkQN5ZVz"
+  ],
+  "tags": [
+    "wormyevolution",
+    "prasajadi",
+    "monster"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmcmDWgRytY8osLw8zeizBeNwEWmCqVVmbvQmSSCey4iZd"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmaAsTtycsVbje9uC5gznq3bx3Syi9LTam127HNSMKTyVv"
+  },
+  "supply": "3",
+  "transfered": 0
+}

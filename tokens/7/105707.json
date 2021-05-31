@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493979,
+  "token_id": 105707,
+  "symbol": "OBJKT",
+  "name": "Faces 03 - Energy Blocks - Auni Seiva",
+  "decimals": 0,
+  "description": "Face 03_ GIF made by authorial photos with physical work (concrete and objects found in the streets). This sculpture is a part of Energy Blocks series, in development since 2018.",
+  "artifact_uri": "ipfs://QmT2YYGHgNaDgjBquEwHJwri1hR4dFiM7ffKbDBS6SBfBh",
+  "display_uri": "ipfs://QmT2YYGHgNaDgjBquEwHJwri1hR4dFiM7ffKbDBS6SBfBh",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1YMTxTevLgMftbRBprNxKh1LSzCh6euG5Z"
+  ],
+  "tags": [
+    "auniseiva",
+    "deborauni",
+    "blocosdeenergia",
+    "blocosdeenergia",
+    "faces",
+    "rostos",
+    "cryptoartist",
+    "series",
+    "artistalatina"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmT2YYGHgNaDgjBquEwHJwri1hR4dFiM7ffKbDBS6SBfBh"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmYautjUuaWGyZDibjJ6nSVsyDpLwtCwJkqvyE7SxD58wg"
+  },
+  "supply": "4",
+  "transfered": 6
+}

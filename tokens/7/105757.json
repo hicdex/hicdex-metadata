@@ -1,0 +1,47 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494009,
+  "token_id": 105757,
+  "symbol": "OBJKT",
+  "name": "Vibes",
+  "decimals": 0,
+  "description": "Tag your friends.",
+  "artifact_uri": "ipfs://QmTpXu1KipBbsuYbC3L3Zy2KZ4jPqU9zQvfuF6zX1PRwyD",
+  "display_uri": "ipfs://QmTpXu1KipBbsuYbC3L3Zy2KZ4jPqU9zQvfuF6zX1PRwyD",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1e2uANzar3p9kjL4Ci6e9y7TWf4FyXbU3h"
+  ],
+  "tags": [
+    "artist;masajada",
+    "hicetnunc",
+    "art",
+    "animation",
+    "24colors",
+    "gif",
+    "photography",
+    "loop",
+    "collectible",
+    "cryptoart",
+    "nftart",
+    "psychedelic",
+    "experimental",
+    "photo",
+    "vincy784",
+    "dogs",
+    "beach"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmTpXu1KipBbsuYbC3L3Zy2KZ4jPqU9zQvfuF6zX1PRwyD"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmarrkE3BKpkVp5o7svCVfmkkX4CTCg1nNkisQzm2QswML"
+  },
+  "supply": "1",
+  "transfered": 2
+}

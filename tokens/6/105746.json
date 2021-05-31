@@ -1,0 +1,50 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494004,
+  "token_id": 105746,
+  "symbol": "OBJKT",
+  "name": "witch, rats, bats & her other pets",
+  "decimals": 0,
+  "description": "If that isn't me by my 50s.. (Inspired by a beautiful fierce thunderstorm on the 28th of May, 2021)",
+  "artifact_uri": "ipfs://QmNsfoKzrtFKeK6YN6J2K5Y8ctquebjcX6cpM5xzDSeS1T",
+  "display_uri": "ipfs://QmNsfoKzrtFKeK6YN6J2K5Y8ctquebjcX6cpM5xzDSeS1T",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1bJ3v7AnyYU5fnjTgjF2YXWegQYGodKZQa"
+  ],
+  "tags": [
+    "illustration",
+    "digital",
+    "art",
+    "gif",
+    "graphics",
+    "weird",
+    "weirdart",
+    "nonsense",
+    "minimalism",
+    "rats",
+    "cat",
+    "nature",
+    "storm",
+    "lightning",
+    "witch",
+    "woman",
+    "beauty",
+    "feminine",
+    "bats",
+    "magic"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmNsfoKzrtFKeK6YN6J2K5Y8ctquebjcX6cpM5xzDSeS1T"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmU6rBVHmSxdP3tuaV2Fqtn3pdVCYTSdTWroYtGbttnfwh"
+  },
+  "supply": "11",
+  "transfered": 8
+}

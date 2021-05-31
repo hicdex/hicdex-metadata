@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494214,
+  "token_id": 106065,
+  "symbol": "OBJKT",
+  "name": "Creatures",
+  "decimals": 0,
+  "description": "A band of magic creatures. 2D loop animation. Soundtrack by me",
+  "artifact_uri": "ipfs://QmS6kpVL5DoDUjyYMkFpoKMQsX1ZmpGguEQH2f28ogSgTV",
+  "display_uri": "ipfs://QmUEGZoLqKpTayaUMdaRJuBUW9JBzgyTsmnynrnqBfNi79",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1WJ5HWrghzHDZ2m9MGh3iDntJ9vX9wzjLH"
+  ],
+  "tags": [
+    "2d",
+    "animation",
+    "loop",
+    "motion",
+    "design",
+    "colors"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmS6kpVL5DoDUjyYMkFpoKMQsX1ZmpGguEQH2f28ogSgTV"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qmc5C3WecG9z9jNNKweXB6UhJLKBddYkxZRhiG2Sr26yqb"
+  },
+  "supply": "1",
+  "transfered": 0
+}

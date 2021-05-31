@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493994,
+  "token_id": 105733,
+  "symbol": "OBJKT",
+  "name": "Mandelbrot Triceratops",
+  "decimals": 0,
+  "description": "This is a digital design of a dinosaur with a Mandelbrot patter",
+  "artifact_uri": "ipfs://QmNworVktWgzbwFkdnyCmcuH6nYDK2bdw4c5dJjMViLZhy",
+  "display_uri": "ipfs://QmUirePDTQK5e7SdjXaXhxvX3SvKHptHq9Fpqq6TnYtsvz",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1NQanPvhuat94FteoLFJ6Vcp2wueDzTzeN"
+  ],
+  "tags": [
+    "dinosaur",
+    "triceratops",
+    "prehistoric",
+    "Jurassic",
+    "mandelbrot",
+    "fractal",
+    "mathematics",
+    "star",
+    "evolution"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmNworVktWgzbwFkdnyCmcuH6nYDK2bdw4c5dJjMViLZhy"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmPMAUk9griKuHrFeA65C5CZXiZRpxX71dbLK5dNe3k7Wo"
+  },
+  "supply": "50",
+  "transfered": 50
+}

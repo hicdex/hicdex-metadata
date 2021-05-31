@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493889,
+  "token_id": 105603,
+  "symbol": "OBJKT",
+  "name": "Decay",
+  "decimals": 0,
+  "description": "Generative art. Made with rust and nannou.",
+  "artifact_uri": "ipfs://QmazmhtoTJsa1b4f8U15zCWyuzBr3bCJVb23iZbCHYC5Kk",
+  "display_uri": "ipfs://QmNowKpCxexsePiJPaANuboW69pu93LAzARsEtaJvmSuLg",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1KnWgbfX3EP188xNXWXv3GUnGNBd3TTM3D"
+  ],
+  "tags": [
+    "generative",
+    "creativecoding",
+    "rust",
+    "digital",
+    "nannou"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmazmhtoTJsa1b4f8U15zCWyuzBr3bCJVb23iZbCHYC5Kk"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qmct1Abu2frRFrDUx615m1y5eDZ77tEz64wq8VP6fWGVWR"
+  },
+  "supply": "20",
+  "transfered": 20
+}

@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492622,
+  "token_id": 104286,
+  "symbol": "OBJKT",
+  "name": "RGBeing #01",
+  "decimals": 0,
+  "description": "a red green and blue being.",
+  "artifact_uri": "ipfs://QmSfDg1ftxaVLaUYfcfBz9Sy383rZTMUhyiVzJYSMt4usg",
+  "display_uri": "ipfs://QmSfDg1ftxaVLaUYfcfBz9Sy383rZTMUhyiVzJYSMt4usg",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1RLpnNwJuo5P8D54HvDeXjLJtwGRwpQKnx"
+  ],
+  "tags": [
+    "rgbeings",
+    "gif",
+    "colorful",
+    "psychedelic",
+    "trippy",
+    "yonfrula"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmSfDg1ftxaVLaUYfcfBz9Sy383rZTMUhyiVzJYSMt4usg"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmQK3Yr2dkSMbRvg8zUT3v8ipM3c69LrRER62RK3jXcCmp"
+  },
+  "supply": "10",
+  "transfered": 18
+}

@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493014,
+  "token_id": 104894,
+  "symbol": "OBJKT",
+  "name": "space shit",
+  "decimals": 0,
+  "description": "that's the best space shit in the space",
+  "artifact_uri": "ipfs://QmcXKpqdgmTBNA34hQ7frmA8XV16w8BYVNrB9va46BCmHb",
+  "display_uri": "ipfs://QmX8ENsm2qGwcRXkYws9tDBQM1SZPxNVpXPpNNBt72k1T3",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1cY7iacizaSriCtYPN5a3CkQPDVNLF1uC5"
+  ],
+  "tags": [
+    "space",
+    "lsd",
+    "mandala",
+    "color"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmcXKpqdgmTBNA34hQ7frmA8XV16w8BYVNrB9va46BCmHb"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmWBupNYVuDw4XGfC9seXjPk7Zw93ncQ7jpd58NKAeY9mH"
+  },
+  "supply": "1",
+  "transfered": 0
+}

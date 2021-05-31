@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493521,
+  "token_id": 105293,
+  "symbol": "OBJKT",
+  "name": "Personality is key 08",
+  "decimals": 0,
+  "description": "Just a snail with a personality. V8/9 2160x2160",
+  "artifact_uri": "ipfs://QmZTNTXMtujbsHK3F9cx4o8HaFJodMhEkiAF1NNqFRgbYM",
+  "display_uri": "ipfs://QmPErhg5pXVQ9myXvwwmFGxbGWCPXRReSkdPkeaRxB7VgH",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1ZHqZyigiw8u5WJjRuj2Q6Dz6r45cjaitu"
+  ],
+  "tags": [
+    "snail",
+    "personality",
+    "abstract",
+    "blue",
+    "beige",
+    "3d",
+    "3drender",
+    "scifi",
+    "future"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmZTNTXMtujbsHK3F9cx4o8HaFJodMhEkiAF1NNqFRgbYM"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmQGMhKqFD9H3ooub1bfrXwGf2rEUrxHYYpueBd5sfEBN8"
+  },
+  "supply": "20",
+  "transfered": 32
+}

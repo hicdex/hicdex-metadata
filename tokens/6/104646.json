@@ -1,0 +1,46 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492848,
+  "token_id": 104646,
+  "symbol": "OBJKT",
+  "name": "The Ultimate Intergalactic Drink",
+  "decimals": 0,
+  "description": "One of SATVRNAES first works Alien themed, and still one of the favorites. Besides... Who isn't willing to take a sip from the ultimate intergalactic drink? JPEG. 4000x4000px, 300 DPI",
+  "artifact_uri": "ipfs://QmQz9Cyjr7rE1jNZm7uDGaEYiBCMyV2xKaGkucA83Y3u5N",
+  "display_uri": "ipfs://QmNZYNCEhSBhBHzCN9D9x5YzVnAVmjQK1mEYxjz1fvQBmq",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1g8aFEK5z66b6z7KbdovwGCgYy7zWXWaLr"
+  ],
+  "tags": [
+    "neon",
+    "digital",
+    "alien",
+    "space",
+    "drink",
+    "trippy",
+    "psychedelic",
+    "vaporwave",
+    "surreal",
+    "alcohol",
+    "stars",
+    "purple",
+    "green",
+    "acid",
+    "beer",
+    "et"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmQz9Cyjr7rE1jNZm7uDGaEYiBCMyV2xKaGkucA83Y3u5N"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmSHE8u3GisKT5RUpRXfjUF48apv6dSUmsxwRUtZw6bo9J"
+  },
+  "supply": "15",
+  "transfered": 15
+}

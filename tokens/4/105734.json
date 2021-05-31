@@ -1,0 +1,41 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493994,
+  "token_id": 105734,
+  "symbol": "OBJKT",
+  "name": "WHOLE LOTTA TRIP",
+  "decimals": 0,
+  "description": "Whole lotta trip // Made while trippin on carti's discography. Playboi Carti is an experimental artist with amazing vibe. I tripped over his songs whole 2020 during the first covid lockdown and been a fan ever since. Music used : https://youtu.be/eDcsHLaNy1I All rights of music to the creator LL CLAWs and Playboi Carti.",
+  "artifact_uri": "ipfs://QmWCq4Ti8sYZ7AJ9MwfS3EvRj2pJh3A2bGb7Saic28AstT",
+  "display_uri": "ipfs://QmPhCRPy9HEV1nawdMDGFkvJi3SefcGy9omE3dMcQmnwku",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1WnRYXVpA16DS52c8xpnoa75FqzNaNTusa"
+  ],
+  "tags": [
+    "playboi",
+    "carti",
+    "playboy",
+    "rap",
+    "soundcloud",
+    "trippy",
+    "psychedelic",
+    "420",
+    "drugs",
+    "molly",
+    "Milindevil"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmWCq4Ti8sYZ7AJ9MwfS3EvRj2pJh3A2bGb7Saic28AstT"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmduMwX23gPvVHvPv7TZCGb8wXSCpxNDsW1CdG3qUuyqXF"
+  },
+  "supply": "50",
+  "transfered": 50
+}

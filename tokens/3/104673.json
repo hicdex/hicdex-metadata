@@ -1,0 +1,33 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492861,
+  "token_id": 104673,
+  "symbol": "OBJKT",
+  "name": "My 32 Bit Standing naked in the shower but not even turning it on because I. Just. Don't. Understand. What. Is. Happening.",
+  "decimals": 0,
+  "description": "'My 32 Bit Life' is a metafiction experiment, told through 32bit pixel art.",
+  "artifact_uri": "ipfs://QmXNQYGKKG7M3MkrbcuM8sh7Gark7SpJ3sojoWwV3NH5KT",
+  "display_uri": "ipfs://Qmcwg22rctmrokLbMEJESiuKuLr2EPncpVPGm8UystVGnc",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1deZzysFrHhHdSWTk9wwBQtCLpGuCvR7D7"
+  ],
+  "tags": [
+    "32Bit",
+    "pixelart",
+    "metafiction"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmXNQYGKKG7M3MkrbcuM8sh7Gark7SpJ3sojoWwV3NH5KT"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qmdp4wrvgnQJxs7zxJrWPWRGqJ2WDXis1eCJSDT8MtXTXd"
+  },
+  "supply": "10",
+  "transfered": 10
+}

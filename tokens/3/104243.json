@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492595,
+  "token_id": 104243,
+  "symbol": "OBJKT",
+  "name": "Drone Squadron: Elite #0004",
+  "decimals": 0,
+  "description": "Drones Pecury (0.655), Tanerth (0.611), Ieria (0.589), Xaphus (0.567), Qaclite (0.417), Ruwei Mk XC (0.411) were created by tz2K1rDmszPuzVQYUcyDFxeSm7ZEJdDvhXx4 burning OBJKT#103271 with seed oneZnunCguSKwZMeN7TKmvsxQ1ZzyeHojuiQsSJycFnfEkrWbuj. By @__orderandchaos.",
+  "artifact_uri": "ipfs://QmevoVBgVfVtt9MN9npZCyYMgdEerzz8L3A6LhPzJ71pW5",
+  "display_uri": "ipfs://QmPpqseJbavXNRSoFUKpi2K39SLkR27GB5djkResehDken",
+  "thumbnail_uri": "ipfs://QmfELxkxt3QGPvpg1JPGzy9DykyJWdQDhSwPsmR69iMVvz",
+  "is_transferable": true,
+  "creators": [
+    "tz1VgpmwW66LCbskjudK54Zp96vKn2cHjpGN"
+  ],
+  "tags": [
+    "DroneSquadron",
+    "Collectable",
+    "Cards",
+    "Interactive",
+    "Random",
+    "Generative"
+  ],
+  "formats": [
+    {
+      "mimeType": "application/x-directory",
+      "uri": "ipfs://QmevoVBgVfVtt9MN9npZCyYMgdEerzz8L3A6LhPzJ71pW5"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmbgSkfk1xNwZMbMUDQgJrEFu9c4ZER6BVV54JrBFsjGwv"
+  },
+  "supply": "1",
+  "transfered": 2
+}

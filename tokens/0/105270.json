@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493465,
+  "token_id": 105270,
+  "symbol": "OBJKT",
+  "name": "Eternal Radness",
+  "decimals": 0,
+  "description": "Rad in life - Rad in Death",
+  "artifact_uri": "ipfs://QmNPJAgdKCdP1D8nuC9BvSWAdQjeghyvAsZbbfBs2ZnZcM",
+  "display_uri": "ipfs://QmZfVQrD9uHrYYzbGqg7VoVuEbQLZfuqiq2CEeb8nrFEfz",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1TGYHgbtu242imvemfe9txgCseXoQsz14g"
+  ],
+  "tags": [
+    "neon",
+    "retro",
+    "skull",
+    "fluro",
+    "animation",
+    "illustration",
+    "Philustrations",
+    "Summer",
+    "Sunglasses"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/quicktime",
+      "uri": "ipfs://QmNPJAgdKCdP1D8nuC9BvSWAdQjeghyvAsZbbfBs2ZnZcM"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZidcuhA3ugMyeX6sHEKyzd73HGP2VzJScftrFnYNkGXz"
+  },
+  "supply": "50",
+  "transfered": 0
+}

@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493702,
+  "token_id": 105434,
+  "symbol": "OBJKT",
+  "name": "Fire",
+  "decimals": 0,
+  "description": "Medium: Oil, acrylic and aerosol on canvas / Size: 16 in x 20 in / Year: 2020 /@bjorncalleja",
+  "artifact_uri": "ipfs://QmSvZzNZYgSXQbda8wZ7sBkAULZsfd9g6Std29My3C4373",
+  "display_uri": "ipfs://QmaqbnTrXa6d7Kj65JGWYXjgUwdrTsoSvf433uin19HjwN",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1aZfWcEbD34Lu7uviYe8ENNoxv1iazYVab"
+  ],
+  "tags": [
+    "bjorncalleja",
+    "art",
+    "fineart",
+    "contemporaryart",
+    "painting"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmSvZzNZYgSXQbda8wZ7sBkAULZsfd9g6Std29My3C4373"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmdMz9XhK45HBvbXZFzPtaUCNPt1wmPigCoW7zkDmzXXYM"
+  },
+  "supply": "1",
+  "transfered": 1
+}

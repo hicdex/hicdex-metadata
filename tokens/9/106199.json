@@ -1,0 +1,41 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494307,
+  "token_id": 106199,
+  "symbol": "OBJKT",
+  "name": "SWEET GEORGE",
+  "decimals": 0,
+  "description": "SWEET GEORGE is YOURCAtz number 3 of 800. This cat has been randomly generated after burning a YOURCAtz TICKET (OBJKT#106008). The seed was opNeAUdrLfh5EUuZhb5i47tipLKhMj6K493trfQ6WqMN3ZKJGS4. Made by @_stefj_",
+  "artifact_uri": "ipfs://QmYfa7SNYruECf6N77sUcp3sSSpK9DEce2u7gW82AnUfxG",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1MhXSq5Tcvw6sftvkLADy7VYUViavxZYMb"
+  ],
+  "tags": [
+    "YOURCAtz",
+    "cat",
+    "rngcat",
+    "burnnft",
+    "cute",
+    "avatar",
+    "portrait",
+    "YOURCAtz_common_frame",
+    "YOURCAtz_uncommon_body",
+    "YOURCAtz_common_loweracc",
+    "YOURCAtz_legendary_upperacc",
+    "YOURCAtz_master_expression"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmYfa7SNYruECf6N77sUcp3sSSpK9DEce2u7gW82AnUfxG"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmfS8NyxUiM6ZHFHNMat6ogYbRjUMDgQ28J6YMrAMT7bpj"
+  },
+  "supply": "1",
+  "transfered": 1
+}

@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494379,
+  "token_id": 106328,
+  "symbol": "OBJKT",
+  "name": "Love in a star ",
+  "decimals": 0,
+  "description": "love can be as fragile as a star",
+  "artifact_uri": "ipfs://QmesKcRU9cDAgGkEviRdardrorMv2RHCLVz3am6c3XtosG",
+  "display_uri": "ipfs://QmU9AnfsRtWWEvHX8iSLgtBpGKD8Qgqdsnwa83z2wvZaDC",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1fipy3N9Mqv1pVAQiAhYpCK9Jdpdeox5My"
+  ],
+  "tags": [
+    "love",
+    "star",
+    "ilustration",
+    "kawaii"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmesKcRU9cDAgGkEviRdardrorMv2RHCLVz3am6c3XtosG"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmVEcG6BVGb6ngJ3PYHfbGwKAFbDYe53SeNVNMQBexL83Q"
+  },
+  "supply": "10",
+  "transfered": 10
+}

@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494388,
+  "token_id": 106344,
+  "symbol": "OBJKT",
+  "name": "SlickVerse #1",
+  "decimals": 0,
+  "description": "a New dawn has come and the uprising of the new Slickdams have begun! Once the protectors of the universe now outlaws in there own universe.",
+  "artifact_uri": "ipfs://QmST3ms1psdvJCMUVXwDv9YhUhMGWPqNLVvx81MjqeUHGm",
+  "display_uri": "ipfs://QmXDE8XWaoAUQpCgfSecoBvSeHegYHkFxJoPhtcKFDCFaE",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1erJLKdCczRcbLHdYed7iCmVjdQGzE8hqd"
+  ],
+  "tags": [
+    "SlickVerse",
+    "Slickdams",
+    "space",
+    "characters",
+    "illustrations"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmST3ms1psdvJCMUVXwDv9YhUhMGWPqNLVvx81MjqeUHGm"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmYm8UZKCDPNqxCNXfJohLj7pcY5cvPZSbwFqampbsozbW"
+  },
+  "supply": "1",
+  "transfered": 1
+}

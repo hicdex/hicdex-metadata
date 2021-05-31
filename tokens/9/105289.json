@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493507,
+  "token_id": 105289,
+  "symbol": "OBJKT",
+  "name": "Torbernite",
+  "decimals": 0,
+  "description": "Relic 005",
+  "artifact_uri": "ipfs://QmSusP5E52asxhzXmxQa7Vc1GxForGcvMCbjJ28gryu87W",
+  "display_uri": "ipfs://QmZJQBuPJuTocR1qsGzLb78NHz7VjffXhpzVeQ6SGVoRRm",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1TQFkM17Xc4Wc3XvhEKdypCUpki4mFJ1iP"
+  ],
+  "tags": [
+    "3D",
+    "SKULL",
+    "TORBERNITE",
+    "RELIC",
+    "HOBOMANGO"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmSusP5E52asxhzXmxQa7Vc1GxForGcvMCbjJ28gryu87W"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmPYpJMfHpx9MPwNRfwjeU78WW6spEScCNhYNhqgHk2189"
+  },
+  "supply": "1",
+  "transfered": 1
+}

@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494018,
+  "token_id": 105767,
+  "symbol": "OBJKT",
+  "name": "ArzuEndam/ I am so bullish these days",
+  "decimals": 0,
+  "description": "It's one of the characters I have created inspired by old vinyl toys and popular icons. I identify random objects, bring some of geometric shapes and silhouettes of these ordinary objects digitally together in order to finally to get the shape of the character I want to create.then I fill in these shapes with some of my drawings and illustrations.",
+  "artifact_uri": "ipfs://QmX311dfke4TJ3QKRvG8odqcsLUuugeTah9kDPncp95Ykv",
+  "display_uri": "ipfs://QmcsW4hxcAmp9HsnizStVBVLKFsZ4HTkGuHyyrEhwRqMMk",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1PdaDqFe5oKseX23tEorybvSmzapR7HCTD"
+  ],
+  "tags": [
+    "collageart",
+    "digitaldrawing",
+    "funcharacters",
+    "bull"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmX311dfke4TJ3QKRvG8odqcsLUuugeTah9kDPncp95Ykv"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmYBMxQqvnWhBToR7jn1jogWHL8Z7YBsvmz5ZewPv7haCS"
+  },
+  "supply": "30",
+  "transfered": 29
+}

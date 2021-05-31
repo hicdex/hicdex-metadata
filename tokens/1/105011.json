@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493105,
+  "token_id": 105011,
+  "symbol": "OBJKT",
+  "name": "Pink flower",
+  "decimals": 0,
+  "description": "Little pink flower on an iron manhole cover. Salvador, Bahia, Brasil, 2016.",
+  "artifact_uri": "ipfs://QmambbMRwU2Z59KGYR34J1UAKpYyMf7tfcczxbUUDpknUu",
+  "display_uri": "ipfs://QmX7Z2ErqzXT74zVC3MVWFmcXWEYWdHLdf3XFSmfHi96Uh",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1hwtsYcBrcu6zDVFLdwNPZDYBDosZkLdci"
+  ],
+  "tags": [
+    "photography",
+    "flower",
+    "stilllife",
+    "Brazilianphotography",
+    "naturezamorta",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://QmambbMRwU2Z59KGYR34J1UAKpYyMf7tfcczxbUUDpknUu"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmU7dJDT5JC6dZbGJx781M1SXKY6YKe6Wsiqmv3XvucHmS"
+  },
+  "supply": "1",
+  "transfered": 0
+}

@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494024,
+  "token_id": 105770,
+  "symbol": "OBJKT",
+  "name": "Invasion",
+  "decimals": 0,
+  "description": "Invasion - 15/15 - Perspectives Collection| Digital Work by Alex Benedith| 8000x8000 -  19,9 MB - 300 DPI Follow my ig: @alex_benedith",
+  "artifact_uri": "ipfs://Qmeed1yoZAMhRn3QKnYou7hYyy5RMxz17sYHthyPzfi2ae",
+  "display_uri": "ipfs://QmcnfwghnPkyCzh5WM85D8UxfBiStC8kzEuGmWV2sTmv7H",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1QeBeFer1M7auxG4DwuzQ2V9zVRuyvJ1Cv"
+  ],
+  "tags": [
+    "Perspective",
+    "Collection",
+    "Invasion",
+    "Digital",
+    "Work",
+    "Painting",
+    "Render",
+    "Blue",
+    "Collors"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "ipfs://Qmeed1yoZAMhRn3QKnYou7hYyy5RMxz17sYHthyPzfi2ae"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmTJyiWWUdTJEw9fnvBhfMaWV86pghNMMboX3WGothEaxp"
+  },
+  "supply": "15",
+  "transfered": 15
+}

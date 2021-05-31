@@ -1,0 +1,40 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493247,
+  "token_id": 105141,
+  "symbol": "OBJKT",
+  "name": "πDrop",
+  "decimals": 0,
+  "description": "πDrop is the second contribution to the exploration of vibrations caused by a drop and its relationship with different dimensions. The triangules within the drop represent π (Pi) or the three dimesion we live in follow by a inner gravaity force. Generative series.",
+  "artifact_uri": "ipfs://QmYK1aZkQ6KXuZNBHMiT7hiEnqNuM76xPGqgfZsmcuXH4m",
+  "display_uri": "ipfs://QmYK1aZkQ6KXuZNBHMiT7hiEnqNuM76xPGqgfZsmcuXH4m",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1icjh1eRP4RgpwsDknfST7zRwF7btGinS6"
+  ],
+  "tags": [
+    "drop",
+    "circle",
+    "ring",
+    "triangule",
+    "pi",
+    "dimension",
+    "generative",
+    "shape",
+    "abstract",
+    "psychedelic"
+  ],
+  "formats": [
+    {
+      "mimeType": "image/gif",
+      "uri": "ipfs://QmYK1aZkQ6KXuZNBHMiT7hiEnqNuM76xPGqgfZsmcuXH4m"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmZu2wWd1AJxNHeipXH3BxA6tBdVSFhHHbyC94tgyoFhVp"
+  },
+  "supply": "10",
+  "transfered": 0
+}

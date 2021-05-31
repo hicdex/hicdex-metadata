@@ -1,0 +1,39 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492919,
+  "token_id": 104748,
+  "symbol": "OBJKT",
+  "name": "NFTs.tips Miami Collectors Club Dinner",
+  "decimals": 0,
+  "description": "NFTs.tips Miami Collectors Club Dinner Ownership of this ticket awards ticket holder the right to attend our debut VIP COLLECTORS CLUB Dinner  On 6/3/2021 @ Broken Shaker 2727 Indian Creek Dr, Miami Beach, FL 7pm",
+  "artifact_uri": "ipfs://QmNxTdnXoGNz13oyNfoLdzVENZHuH1n72igdkFyknu3FA2",
+  "display_uri": "ipfs://QmXa7vGjiA2MgK4KzLQDv9N8JcWaDwVJmX96wQmVuqzZ99",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1aoNtBy7CvEn4LsVDcq4HjBgW4YNPsvsaV"
+  ],
+  "tags": [
+    "Nft",
+    "ticket",
+    "nftstips",
+    "miami",
+    "pass",
+    "ticket",
+    "club",
+    "collectorsclub",
+    "brokenshaker"
+  ],
+  "formats": [
+    {
+      "mimeType": "model/gltf-binary",
+      "uri": "ipfs://QmNxTdnXoGNz13oyNfoLdzVENZHuH1n72igdkFyknu3FA2"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmUKjh7bfqLvxkYvF58RGaAFXcVy7kVmuiYHnZZP2tkRYx"
+  },
+  "supply": "34",
+  "transfered": 0
+}

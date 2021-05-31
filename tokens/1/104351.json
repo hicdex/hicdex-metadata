@@ -1,0 +1,34 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1492676,
+  "token_id": 104351,
+  "symbol": "OBJKT",
+  "name": "Fracture Light ‖ Blue Head",
+  "decimals": 0,
+  "description": "Dig in your soul to find light, broke those boundries that keep you in the dark",
+  "artifact_uri": "ipfs://QmV5niSPiiLS8HEbHv2zeUV7kU6DRJsub5iQjsE46TozfM",
+  "display_uri": "ipfs://QmT67HXeM4MEjEeRMKHkjkuNNZrTTmN4JoF62ZCc4VzfN7",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1e88AWSufvrpmFR61bEap17P1mvnvEpAhq"
+  ],
+  "tags": [
+    "Fracture",
+    "light",
+    "blue",
+    "head"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmV5niSPiiLS8HEbHv2zeUV7kU6DRJsub5iQjsE46TozfM"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://QmREMsqRwQyMXNxmuxJzjc4THNZf3PF75tBF2FVtCBNWaG"
+  },
+  "supply": "10",
+  "transfered": 22
+}

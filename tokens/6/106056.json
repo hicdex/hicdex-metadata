@@ -1,0 +1,35 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1494208,
+  "token_id": 106056,
+  "symbol": "OBJKT",
+  "name": "One% - Fishbowl",
+  "decimals": 0,
+  "description": "One Percent, the second collection. It’s about colors and value • 2021 • Contact @S_1_N_3",
+  "artifact_uri": "ipfs://QmQd8kgYyeeFneEXXtaSfUHqmdrcm6qffh9mtX86jsDNwR",
+  "display_uri": "ipfs://QmaNRPGKwjzbGFsHDpHF1uLjoxuonFYX1i26qd77uUCvsf",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1ZqRFCTgEt2n1bYPJfKwSiRGD6a1AEDQMs"
+  ],
+  "tags": [
+    "SINE",
+    "one%",
+    "fishbowl",
+    "fish",
+    "web"
+  ],
+  "formats": [
+    {
+      "mimeType": "video/mp4",
+      "uri": "ipfs://QmQd8kgYyeeFneEXXtaSfUHqmdrcm6qffh9mtX86jsDNwR"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qmb2KCVxeeKWi2HSCDaXoN64R5LydFukuMwxubAcrH63Lb"
+  },
+  "supply": "25",
+  "transfered": 52
+}

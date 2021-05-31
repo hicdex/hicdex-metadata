@@ -1,0 +1,36 @@
+{
+  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
+  "network": "mainnet",
+  "level": 1493536,
+  "token_id": 105304,
+  "symbol": "OBJKT",
+  "name": "KONONE Travel Diaries #1",
+  "decimals": 0,
+  "description": "This photo was taken at a lookout spot on route to Reynisfjara, the world famous black beach you can see in the distance. Location:The south coast of Iceland. Date:2016. This is the first in the KONONE Travel Diaries series.   ",
+  "artifact_uri": "ipfs://QmPopouWajYqEhoqX9Wr5Qk4R8MWGyJXu4cVPRo7tgjJ3C",
+  "display_uri": "ipfs://QmcZje4b2GtyuBiUeynkKvc9gvaZyfaJucJww1VGBxjqiT",
+  "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+  "is_transferable": true,
+  "creators": [
+    "tz1hNCgcjbCFY5yDuLjzxspuiZEHAkHbPQM2"
+  ],
+  "tags": [
+    "DIGITALILLUSTRATION",
+    "TRAVEL",
+    "PHOTOGRAPHY",
+    "DIGITALART",
+    "ICELAND",
+    ""
+  ],
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmPopouWajYqEhoqX9Wr5Qk4R8MWGyJXu4cVPRo7tgjJ3C"
+    }
+  ],
+  "token_info": {
+    "@@empty": "ipfs://Qme8HsSKvaLAejrsW5RtJJYG371z3CfnY7xjXQZYSUBSsF"
+  },
+  "supply": "20",
+  "transfered": 18
+}
