@@ -1,12 +1,1 @@
-{
-  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
-  "network": "mainnet",
-  "level": 1492973,
-  "token_id": 104831,
-  "name": "Unknown",
-  "token_info": {
-    "@@empty": "ipfs://QmdFNPEwCsDnS1mU9RS4E8fHQTXuu818L1AKVzEbYddBPS"
-  },
-  "supply": "2",
-  "transfered": 2
-}
+{"contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton", "network": "mainnet", "level": 1492973, "token_id": 104831, "symbol": "OBJKT", "name": "One Filter", "decimals": 0, "description": "only 2!", "artifact_uri": "ipfs://QmUHBTx7R5uxJGNKCcS4VjoDcQAhATVV1WpmeEnDJLEPM7", "display_uri": "ipfs://QmUHBTx7R5uxJGNKCcS4VjoDcQAhATVV1WpmeEnDJLEPM7", "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc", "is_transferable": true, "creators": ["tz1R2PDQ3tUMbgNT2iDbgj3Bqs86Xff2fVpW"], "tags": [""], "formats": [{"mimeType": "image/gif", "uri": "ipfs://QmUHBTx7R5uxJGNKCcS4VjoDcQAhATVV1WpmeEnDJLEPM7"}], "supply": "2", "transfered": 2}

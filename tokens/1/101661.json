@@ -1,12 +1,1 @@
-{
-  "contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton",
-  "network": "mainnet",
-  "level": 1490182,
-  "token_id": 101661,
-  "name": "Unknown",
-  "token_info": {
-    "@@empty": "ipfs://QmZX5pdXp8H97Jmpfv9sBRtZdz5djJDZcHeJhAqkCtSur8"
-  },
-  "supply": "1",
-  "transfered": 1
-}
+{"contract": "KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton", "network": "mainnet", "level": 1490182, "token_id": 101661, "symbol": "OBJKT", "name": "Wasp Nest", "decimals": 0, "description": "Wasps tending to their offspring. (3604 x 4505) @tims_pix", "artifact_uri": "ipfs://QmXvjDyWCTPheFXwYe6BEyTzLhLh1nqAV3eB7fEMMJjZ6B", "display_uri": "ipfs://QmecuadwuEUQQ2CtjrnsbqYjLHSqanzDyMhG8hMvotKhzz", "thumbnail_uri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc", "is_transferable": true, "creators": ["tz1TuXUvZbm5FUH28ZHDfpBowaXZSEQxAyAc"], "tags": ["photogaphy", "macro", "wasps"], "formats": [{"mimeType": "image/jpeg", "uri": "ipfs://QmXvjDyWCTPheFXwYe6BEyTzLhLh1nqAV3eB7fEMMJjZ6B"}], "supply": "1", "transfered": 1}
